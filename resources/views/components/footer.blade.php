@@ -20,7 +20,7 @@
         </div>
 
         <div class="text-[10px] tracking-[0.4em] uppercase opacity-60">
-            &copy; {{ date('Y') }} ANADU TAALPARI | POKHARA – 22, KASKI
+            &copy; {{ date('Y') }} DIPENDRAGURUNG.COM.NP | POKHARA – 22, KASKI
         </div>
     </div>
 </footer>
