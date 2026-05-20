@@ -8,13 +8,15 @@
 
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Arya:wght@400;700&family=Poppins:wght@300;400;500;600&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Arya:wght@400;700&family=Poppins:wght@300;400;500;600&family=Cinzel:wght@400..900&family=Playfair+Display:wght@400;500;600;700&display=swap" rel="stylesheet">
 
     @vite(['resources/css/app.css', 'resources/js/app.js'])
 </head>
 <body class="bg-anadu-base font-body text-anadu-dark antialiased selection:bg-anadu-gold selection:text-white flex flex-col min-h-full">
     
     <x-header />
+
+    <x-nav />
 
     <main class="flex-grow flex items-center justify-center">
         @yield('content')

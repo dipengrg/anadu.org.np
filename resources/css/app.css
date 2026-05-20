@@ -12,6 +12,7 @@
     /* Note: These refer to the fonts we imported in your Blade <head> */
     --font-heading: "Arya", serif;
     --font-body: "Poppins", sans-serif;
+    --emphasis: "Cinzel", serif;
 }
 
 /* 3. Set Global Defaults for a Clean Design */
@@ -28,7 +29,12 @@
         background-image: url('/public/images/old-ladies-rowing-boat.png');
         background-position: top center;
         background-repeat: no-repeat;
-        background-size: 40% auto;
-        background-position: 30% 0;
+    }
+}
+
+/* 4. Add Cursive Font Utility Class */
+@layer components {
+    .emphasis {
+        font-family: var(--emphasis);
     }
 }

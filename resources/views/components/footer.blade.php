@@ -8,7 +8,7 @@
                 तालपारी अनदुँ
             </h3>
             
-            <p class="opacity-90 text-sm md:text-base max-w-2xl mx-auto leading-relaxed font-light italic">
+            <p class="emphasis opacity-90 text-sm md:text-base max-w-2xl mx-auto leading-relaxed">
                 "Cultivating a stronger community to honor our history, protect our identity, and preserve the vibrant culture, traditions, and nature of Anadu."
             </p>
         </div>
