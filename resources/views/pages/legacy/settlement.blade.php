@@ -10,7 +10,7 @@
         <div class="grid grid-cols-1 md:grid-cols-12 gap-12 items-start">
             <div class="md:col-span-4 sticky top-6">
                 <h2 class="text-[#234433] text-2xl emphasis leading-tight">From Kohlasothar to the Western Hills</h2>
-                <span class="text-xs font-mono uppercase text-[#C5A880] mt-2 block font-semibold">~500 CE - 14th Century</span>
+                <span class="text-xs uppercase text-[#C5A880] mt-2 block font-semibold">~500 CE - 14th Century</span>
             </div>
             <div class="md:col-span-8 text-gray-600 space-y-6 text-sm md:text-base leading-relaxed">
                 <p>
