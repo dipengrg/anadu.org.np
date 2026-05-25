@@ -62,8 +62,6 @@
                             <li><a href="/culture/chhyopa-teh" class="block text-xs text-anadu-forest/80 hover:text-anadu-gold transition">Chhyopa Teh</a></li>
                             <li><a href="/culture/pye-karya" class="block text-xs text-anadu-forest/80 hover:text-anadu-gold transition">Pye Karya</a></li>
                             <li><a href="/culture/lhosar" class="block text-xs text-anadu-forest/80 hover:text-anadu-gold transition">Lhosar</a></li>
-                            <li><a href="/culture/dashai" class="block text-xs text-anadu-forest/80 hover:text-anadu-gold transition">Dashai</a></li>
-                            <li><a href="/culture/tihar" class="block text-xs text-anadu-forest/80 hover:text-anadu-gold transition">Tihar</a></li>
                         </ul>
                     </div>
                 </div>
