@@ -1,50 +1,43 @@
 <nav>
-    <!-- Mobile Menu Button -->
-    <div class="lg:hidden flex justify-center py-4 px-6">
-        <button id="mobile-menu-toggle" class="text-anadu-forest focus:outline-none" aria-label="Toggle menu">
-            <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16"></path>
-            </svg>
-        </button>
-    </div>
-
-    <!-- Mobile Menu (hidden by default) -->
-    <div id="mobile-menu" class="hidden lg:hidden px-6 pb-4 space-y-2">
-        <a href="/" class="block py-2 px-3 emphasis text-anadu-forest hover:text-anadu-gold transition">HOME</a>
-        <a href="/legacy/settlement" class="block py-2 px-3 text-sm text-anadu-forest hover:text-anadu-gold transition">Our Legacy</a>
-        <a href="/culture/identity" class="block py-2 px-3 text-sm text-anadu-forest hover:text-anadu-gold transition">Culture & Identity</a>
-        <a href="/community/demography" class="block py-2 px-3 text-sm text-anadu-forest hover:text-anadu-gold transition">Community Life</a>
-        <a href="/contact" class="block py-2 px-3 emphasis text-anadu-forest hover:text-anadu-gold transition">CONTACT</a>
-    </div>
-
     <!-- Desktop Menu -->
     <div class="hidden lg:flex container mx-auto px-6 py-8 flex-wrap justify-center gap-x-8 gap-y-2 font-medium text-sm tracking-wide uppercase text-anadu-forest/80">
         
-        <!-- A. Home -->
+        <!-- 1. Home -->
         <a href="/" class="emphasis {{ request()->is('/') ? 'text-anadu-gold' : 'hover:text-anadu-gold' }} transition">HOME</a>
 
-        <!-- B. Our Legacy -->
+        <!-- 2. History -->
         <div class="relative group">
-            <button class="emphasis flex items-center gap-1 {{ request()->is('legacy*') ? 'text-anadu-gold' : 'group-hover:text-anadu-gold' }} transition">
-                <span>OUR LEGACY</span>
+            <button class="emphasis flex items-center gap-1 {{ request()->is('history*') ? 'text-anadu-gold' : 'group-hover:text-anadu-gold' }} transition">
+                <span>HISTORY</span>
                 <svg class="w-4 h-4 transition-transform group-hover:rotate-180" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path></svg>
             </button>
             <div class="absolute left-0 w-56 bg-anadu-base border border-anadu-gold/10 shadow-xl rounded-lg opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-200 z-50 py-2">
-                <p class="text-xs text-anadu-gold emphasis tracking-wider px-4 py-2">Explore our rich heritage</p>
-                <a href="/legacy/settlement" class="block px-4 py-2 text-xs text-anadu-forest/80 hover:text-anadu-gold hover:bg-anadu-gold/5 transition">Settlement</a>
-                <a href="/legacy/territory" class="block px-4 py-2 text-xs text-anadu-forest/80 hover:text-anadu-gold hover:bg-anadu-gold/5 transition">Territory</a>
-                <a href="/legacy/phewa-lake" class="block px-4 py-2 text-xs text-anadu-forest/80 hover:text-anadu-gold hover:bg-anadu-gold/5 transition">Fewa Lake</a>
-                <a href="/legacy/school" class="block px-4 py-2 text-xs text-anadu-forest/80 hover:text-anadu-gold hover:bg-anadu-gold/5 transition">Anadu School</a>
-                <a href="/legacy/pagoda" class="block px-4 py-2 text-xs text-anadu-forest/80 hover:text-anadu-gold hover:bg-anadu-gold/5 transition">Bishwa Shanti Stupa</a>
-                <a href="/legacy/community-center" class="block px-4 py-2 text-xs text-anadu-forest/80 hover:text-anadu-gold hover:bg-anadu-gold/5 transition">Community Center</a>
-                <a href="/legacy/chhoko-dhee" class="block px-4 py-2 text-xs text-anadu-forest/80 hover:text-anadu-gold hover:bg-anadu-gold/5 transition">Chhoko Dhee</a>
+                <p class="text-xs text-anadu-gold emphasis tracking-wider px-4 py-2">Origins &amp; Foundations</p>
+                <a href="/history/settlement" class="block px-4 py-2 text-xs text-anadu-forest/80 hover:text-anadu-gold hover:bg-anadu-gold/5 transition">Settlement</a>
+                <a href="/history/territory" class="block px-4 py-2 text-xs text-anadu-forest/80 hover:text-anadu-gold hover:bg-anadu-gold/5 transition">Territory</a>
             </div>
         </div>
 
-        <!-- C. Culture & Identity -->
+        <!-- 3. Heritage -->
         <div class="relative group">
-            <button class="emphasis flex items-center gap-1 {{ request()->is('culture-identity*') ? 'text-anadu-gold' : 'group-hover:text-anadu-gold' }} transition">
-                <span>CULTURE & IDENTITY</span>
+            <button class="emphasis flex items-center gap-1 {{ request()->is('heritage*') ? 'text-anadu-gold' : 'group-hover:text-anadu-gold' }} transition">
+                <span>HERITAGE</span>
+                <svg class="w-4 h-4 transition-transform group-hover:rotate-180" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path></svg>
+            </button>
+            <div class="absolute left-0 w-56 bg-anadu-base border border-anadu-gold/10 shadow-xl rounded-lg opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-200 z-50 py-2">
+                <p class="text-xs text-anadu-gold emphasis tracking-wider px-4 py-2">Landmarks &amp; Sacred Sites</p>
+                <a href="/heritage/phewa-lake" class="block px-4 py-2 text-xs text-anadu-forest/80 hover:text-anadu-gold hover:bg-anadu-gold/5 transition">Fewa Lake</a>
+                <a href="/heritage/school" class="block px-4 py-2 text-xs text-anadu-forest/80 hover:text-anadu-gold hover:bg-anadu-gold/5 transition">Anadu School</a>
+                <a href="/heritage/stupa" class="block px-4 py-2 text-xs text-anadu-forest/80 hover:text-anadu-gold hover:bg-anadu-gold/5 transition">Bishwa Shanti Stupa</a>
+                <a href="/heritage/community-center" class="block px-4 py-2 text-xs text-anadu-forest/80 hover:text-anadu-gold hover:bg-anadu-gold/5 transition">Community Center</a>
+                <a href="/heritage/chhoko-dhee" class="block px-4 py-2 text-xs text-anadu-forest/80 hover:text-anadu-gold hover:bg-anadu-gold/5 transition">Chhoko Dhee</a>
+            </div>
+        </div>
+
+        <!-- 4. Culture -->
+        <div class="relative group">
+            <button class="emphasis flex items-center gap-1 {{ request()->is('culture*') ? 'text-anadu-gold' : 'group-hover:text-anadu-gold' }} transition">
+                <span>CULTURE</span>
                 <svg class="w-4 h-4 transition-transform group-hover:rotate-180" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path></svg>
             </button>
             <div class="absolute left-1/2 -translate-x-1/2 w-[550px] bg-anadu-base border border-anadu-gold/10 shadow-2xl rounded-xl opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-200 z-50">
@@ -52,7 +45,7 @@
                     <div>
                         <p class="text-xs text-anadu-gold emphasis tracking-wider mb-3">Traditions that define us</p>
                         <ul class="space-y-2">
-                            <li><a href="/culture/identity" class="block text-xs text-anadu-forest/80 hover:text-anadu-gold transition">Religion, Language & Costumes</a></li>
+                            <li><a href="/culture/identity" class="block text-xs text-anadu-forest/80 hover:text-anadu-gold transition">Religion, Language &amp; Costumes</a></li>
                             <li><a href="/culture/lhokor" class="block text-xs text-anadu-forest/80 hover:text-anadu-gold transition">Lhokor</a></li>
                             <li><a href="/culture/thaaso-teh" class="block text-xs text-anadu-forest/80 hover:text-anadu-gold transition">Thaaso Teh</a></li>
                             <li><a href="/culture/simle-toh-teh" class="block text-xs text-anadu-forest/80 hover:text-anadu-gold transition">Simle Toh Teh</a></li>
@@ -68,10 +61,10 @@
             </div>
         </div>
 
-        <!-- D. Community Life -->
+        <!-- 5. Community -->
         <div class="relative group">
             <button class="emphasis flex items-center gap-1 {{ request()->is('community*') ? 'text-anadu-gold' : 'group-hover:text-anadu-gold' }} transition">
-                <span>COMMUNITY LIFE</span>
+                <span>COMMUNITY</span>
                 <svg class="w-4 h-4 transition-transform group-hover:rotate-180" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path></svg>
             </button>
             <div class="absolute right-0 w-56 bg-anadu-base border border-anadu-gold/10 shadow-xl rounded-lg opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-200 z-50 py-2">
@@ -83,21 +76,21 @@
             </div>
         </div>
 
-        <!-- E. Contact -->
+        <!-- 6. Eco Tourism -->
+        <div class="relative group">
+            <button class="emphasis flex items-center gap-1 {{ request()->is('eco-tourism*') ? 'text-anadu-gold' : 'group-hover:text-anadu-gold' }} transition">
+                <span>ECO TOURISM</span>
+                <svg class="w-4 h-4 transition-transform group-hover:rotate-180" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path></svg>
+            </button>
+            <div class="absolute right-0 w-60 bg-anadu-base border border-anadu-gold/10 shadow-xl rounded-lg opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-200 z-50 py-2">
+                <p class="text-xs text-anadu-gold emphasis tracking-wider px-4 py-2">Responsible Travel &amp; Trails</p>
+                <a href="/eco-tourism/raniban-anadu-eco-trail" class="block px-4 py-2 text-xs text-anadu-forest/80 hover:text-anadu-gold hover:bg-anadu-gold/5 transition">Raniban Anadu Eco Trail</a>
+                <a href="/eco-tourism/anadu-stupa-hiking-trail" class="block px-4 py-2 text-xs text-anadu-forest/80 hover:text-anadu-gold hover:bg-anadu-gold/5 transition">Anadu Stupa Hiking Trail</a>
+                <a href="/eco-tourism/anadu-simle-trail" class="block px-4 py-2 text-xs text-anadu-forest/80 hover:text-anadu-gold hover:bg-anadu-gold/5 transition">Anadu Simle Foot Trail</a>
+            </div>
+        </div>
+
+        <!-- 7. Contact -->
         <a href="/contact" class="emphasis {{ request()->is('contact') ? 'text-anadu-gold' : 'hover:text-anadu-gold' }} transition">CONTACT</a>
     </div>
 </nav>
-
-<script>
-    document.getElementById('mobile-menu-toggle')?.addEventListener('click', function() {
-        const menu = document.getElementById('mobile-menu');
-        menu.classList.toggle('hidden');
-    });
-
-    // Close menu when a link is clicked
-    document.getElementById('mobile-menu')?.querySelectorAll('a').forEach(link => {
-        link.addEventListener('click', function() {
-            document.getElementById('mobile-menu').classList.add('hidden');
-        });
-    });
-</script>
