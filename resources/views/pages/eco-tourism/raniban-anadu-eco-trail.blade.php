@@ -9,13 +9,6 @@
 <section class="w-full py-12 md:py-16">
     <div class="max-w-5xl mx-auto px-4 md:px-6">
         
-        <!-- Trail Navigation / Sub-Header Link -->
-        <div class="mb-6">
-            <a href="../initiatives.html" class="text-xs font-mono text-gray-400 hover:text-gray-900 transition-colors">
-                ← Back to Community Life
-            </a>
-        </div>
-
         <!-- Header Section -->
         <div class="mb-12 max-w-3xl">
             <span class="text-xs font-semibold uppercase tracking-widest text-gray-400 block mb-2">Community Trails &amp; Ecology</span>

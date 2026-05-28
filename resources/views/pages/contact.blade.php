@@ -43,15 +43,8 @@
                     </ul>
                 </div>
 
-                <!-- General Email Contact -->
-                <div class="pt-4 border-t border-gray-100">
-                    <h3 class="text-xs font-mono text-gray-400 uppercase tracking-wider mb-2">General Correspondence</h3>
-                    <span class="text-gray-900 font-medium font-mono text-sm">patra@anadu.org.np</span>
-                </div>
-
                 <!-- Geographic Location Details -->
                 <div class="pt-4 border-t border-gray-100">
-                    <h3 class="text-xs font-mono text-gray-400 uppercase tracking-wider mb-2">Official Address</h3>
                     <p class="text-gray-700 text-sm leading-relaxed">
                         Pokhara - 22, Taalpari Anadu<br>
                         Gandaki Province, Nepal
