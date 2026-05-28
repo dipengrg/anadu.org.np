@@ -15,22 +15,12 @@
                 <p class="text-xs text-anadu-gold emphasis tracking-wider px-4 py-2">Origins &amp; Foundations</p>
                 <a href="/history/settlement" class="block px-4 py-2 text-xs text-anadu-forest/80 hover:text-anadu-gold hover:bg-anadu-gold/5 transition">Settlement</a>
                 <a href="/history/territory" class="block px-4 py-2 text-xs text-anadu-forest/80 hover:text-anadu-gold hover:bg-anadu-gold/5 transition">Territory</a>
-            </div>
-        </div>
-
-        <!-- 3. Heritage -->
-        <div class="relative group">
-            <button class="emphasis flex items-center gap-1 {{ request()->is('heritage*') ? 'text-anadu-gold' : 'group-hover:text-anadu-gold' }} transition">
-                <span>HERITAGE</span>
-                <svg class="w-4 h-4 transition-transform group-hover:rotate-180" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path></svg>
-            </button>
-            <div class="absolute left-0 w-56 bg-anadu-base border border-anadu-gold/10 shadow-xl rounded-lg opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-200 z-50 py-2">
-                <p class="text-xs text-anadu-gold emphasis tracking-wider px-4 py-2">Landmarks &amp; Sacred Sites</p>
-                <a href="/heritage/phewa-lake" class="block px-4 py-2 text-xs text-anadu-forest/80 hover:text-anadu-gold hover:bg-anadu-gold/5 transition">Fewa Lake</a>
-                <a href="/heritage/school" class="block px-4 py-2 text-xs text-anadu-forest/80 hover:text-anadu-gold hover:bg-anadu-gold/5 transition">Anadu School</a>
-                <a href="/heritage/stupa" class="block px-4 py-2 text-xs text-anadu-forest/80 hover:text-anadu-gold hover:bg-anadu-gold/5 transition">Bishwa Shanti Stupa</a>
-                <a href="/heritage/community-center" class="block px-4 py-2 text-xs text-anadu-forest/80 hover:text-anadu-gold hover:bg-anadu-gold/5 transition">Community Center</a>
-                <a href="/heritage/chhoko-dhee" class="block px-4 py-2 text-xs text-anadu-forest/80 hover:text-anadu-gold hover:bg-anadu-gold/5 transition">Chhoko Dhee</a>
+                <a href="/history/phyoba" class="block px-4 py-2 text-xs text-anadu-forest/80 hover:text-anadu-gold hover:bg-anadu-gold/5 transition">Fewa Lake</a>
+                <a href="/history/raniban" class="block px-4 py-2 text-xs text-anadu-forest/80 hover:text-anadu-gold hover:bg-anadu-gold/5 transition">Raniban</a>
+                <a href="/history/school" class="block px-4 py-2 text-xs text-anadu-forest/80 hover:text-anadu-gold hover:bg-anadu-gold/5 transition">Anadu School</a>
+                <a href="/history/stupa" class="block px-4 py-2 text-xs text-anadu-forest/80 hover:text-anadu-gold hover:bg-anadu-gold/5 transition">Bishwa Shanti Stupa</a>
+                <a href="/history/community-center" class="block px-4 py-2 text-xs text-anadu-forest/80 hover:text-anadu-gold hover:bg-anadu-gold/5 transition">Community Center</a>
+                <a href="/history/chhoko-dhee" class="block px-4 py-2 text-xs text-anadu-forest/80 hover:text-anadu-gold hover:bg-anadu-gold/5 transition">Chhoko Dhee</a>
             </div>
         </div>
 
