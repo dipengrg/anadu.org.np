@@ -12,7 +12,7 @@
     <section class="max-w-4xl mx-auto px-6 pt-20 pb-12 text-center">
         <span class="text-[#C5A880] text-xs uppercase tracking-widest font-bold block mb-3">Culture &amp; Identity</span>
         <h1 class="text-[#234433] text-3xl md:text-5xl  tracking-tight mb-6">भयार झाँक्री पूजा (Bhayar Jhaakri Puja)</h1>
-        <p class="text-gray-600 text-base md:text-lg max-w-2xl mx-auto leading-relaxed font-serif italic">
+        <p class="text-gray-600 text-base md:text-lg max-w-2xl mx-auto leading-relaxed font-serif">
             "प्रकृति र मानिसबीचको सम्बन्ध र गाउँको रक्षा"
         </p>
         <div class="w-12 h-[1px] bg-[#C5A880] mx-auto mt-8"></div>
@@ -27,10 +27,10 @@
             </div>
             <div class="md:col-span-8 text-gray-600 space-y-6 text-sm md:text-base leading-relaxed">
                 <p>
-                    Deeply embedded within the indigenous shamanistic traditions of the Tamu culture, <strong class="text-[#234433] font-semibold">Bhayar Jhaakri Puja (भयार झाँक्री पूजा)</strong> serves as a vital spiritual shield for the community. Conducted exclusively by the local, traditional Bhayar Jhaakri priests (<span class="italic font-medium">स्थानीय भयार झाँक्री पुजारीहरू</span>), this sacred ritual is designed to reinforce, deepen, and honor the delicate relationship between humanity and the natural world.
+                    Deeply embedded within the indigenous shamanistic traditions of the Tamu culture, <strong class="text-[#234433] font-semibold">Bhayar Jhaakri Puja (भयार झाँक्री पूजा)</strong> serves as a vital spiritual shield for the community. Conducted exclusively by the local, traditional Bhayar Jhaakri priests (<span class=" font-medium">स्थानीय भयार झाँक्री पुजारीहरू</span>), this sacred ritual is designed to reinforce, deepen, and honor the delicate relationship between humanity and the natural world.
                 </p>
                 <p>
-                    The performance of this ancient ritual is rooted in a profound, collective faith that it structurally fortifies and protects the entire settlement (<span class="italic font-medium">गाउँको रक्षा गर्ने जनविश्वास</span>). It acts as a shield to keep the village safe from spreading diseases, sudden illness, and devastating natural disasters (<span class="italic font-medium">गाउँलाई रोगव्याधि र प्राकृतिक विपत्तिबाट जोगाउन</span>), preserving the cosmic balance between the people and the land they inhabit.
+                    The performance of this ancient ritual is rooted in a profound, collective faith that it structurally fortifies and protects the entire settlement (<span class=" font-medium">गाउँको रक्षा गर्ने जनविश्वास</span>). It acts as a shield to keep the village safe from spreading diseases, sudden illness, and devastating natural disasters (<span class=" font-medium">गाउँलाई रोगव्याधि र प्राकृतिक विपत्तिबाट जोगाउन</span>), preserving the cosmic balance between the people and the land they inhabit.
                 </p>
             </div>
         </div>
@@ -76,7 +76,7 @@
                     <h3 class="text-[#234433] text-2xl  mb-4">The Udhauli Convergence</h3>
                     
                     <p>
-                        The <strong class="text-gray-900 font-medium">Bhayar Jhaakri Puja</strong> is meticulously organized exactly <strong class="text-gray-900 font-medium">twice every single year</strong>, strictly aligning with the powerful energy of the full moon (<span class="italic font-medium">प्रत्येक वर्ष जेठ र मंसिरको पूर्णिमा</span>). 
+                        The <strong class="text-gray-900 font-medium">Bhayar Jhaakri Puja</strong> is meticulously organized exactly <strong class="text-gray-900 font-medium">twice every single year</strong>, strictly aligning with the powerful energy of the full moon (<span class=" font-medium">प्रत्येक वर्ष जेठ र मंसिरको पूर्णिमा</span>). 
                     </p>
                     <p>
                         The celebration in the month of Mangsir aligns beautifully with the grand <strong class="text-gray-900 font-medium">Udhauli festival (उधौली पर्व)</strong>, a key seasonal turning point in Himalayan indigenous calendars marking the downward migration of nature's forces ahead of winter. Gathering on these precise full moon days allows the shamanic priests to channel optimal spiritual protection, ensuring the safety, health, and vitality of the entire village community before the changing of the seasons.

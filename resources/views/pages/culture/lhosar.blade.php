@@ -12,7 +12,7 @@
     <section class="max-w-4xl mx-auto px-6 pt-20 pb-12 text-center">
         <span class="text-[#C5A880] text-xs uppercase tracking-widest font-bold block mb-3">Culture &amp; Identity</span>
         <h1 class="text-[#234433] text-3xl md:text-5xl  tracking-tight mb-6">Tamu Lhosar</h1>
-        <p class="text-gray-600 text-base md:text-lg max-w-2xl mx-auto leading-relaxed font-serif italic">
+        <p class="text-gray-600 text-base md:text-lg max-w-2xl mx-auto leading-relaxed font-serif">
             "A momentous festival deeply bound to our community's authentic, historical, cultural, and social identity."
         </p>
         <div class="w-12 h-[1px] bg-[#C5A880] mx-auto mt-8"></div>
@@ -111,7 +111,7 @@
             </div>
             <div class="md:col-span-8 text-gray-600 space-y-6 text-sm md:text-base leading-relaxed">
                 <p>
-                    On the main day of Lhosar, the environment is filled with pure celebration, traditional splendor, and intense harmony. A massive communal feast and social gathering, traditionally known as <strong class="text-[#234433] font-semibold">Syo Kai</strong>, is hosted for all members. Dressed proudly in their intricate traditional costumes, families share authentic festive delicacies like <span class="italic font-medium">Selroti</span>.
+                    On the main day of Lhosar, the environment is filled with pure celebration, traditional splendor, and intense harmony. A massive communal feast and social gathering, traditionally known as <strong class="text-[#234433] font-semibold">Syo Kai</strong>, is hosted for all members. Dressed proudly in their intricate traditional costumes, families share authentic festive delicacies like <span class=" font-medium">Selroti</span>.
                 </p>
                 <p>
                     During this grand event, the <span class="font-medium text-gray-900">Taalpaari Anadu Gurung Samaj</span> officially presents formal honors to the village’s respected senior citizens, youth who have attained high academic excellence, outstanding achievers across diverse professional fields, and distinguished individuals who have contributed exceptional service to our society. The day is filled with rich cultural dances presented by the Aama Samuha and local women, alongside competitive sports and games organized to foster entertainment and community bonding.

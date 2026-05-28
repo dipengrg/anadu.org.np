@@ -12,7 +12,7 @@
     <section class="max-w-4xl mx-auto px-6 pt-20 pb-12 text-center">
         <span class="text-[#C5A880] text-xs uppercase tracking-widest font-bold block mb-3">Culture &amp; Identity</span>
         <h1 class="text-[#234433] text-3xl md:text-5xl  tracking-tight mb-6">छ्योप त्हें (Chhyopa Teh)</h1>
-        <p class="text-gray-600 text-base md:text-lg max-w-2xl mx-auto leading-relaxed font-serif italic">
+        <p class="text-gray-600 text-base md:text-lg max-w-2xl mx-auto leading-relaxed font-serif">
             "पितृहरूको सम्मान, कुलको सुरक्षा र ल्होसारको पूर्वसन्ध्या"
         </p>
         <div class="w-12 h-[1px] bg-[#C5A880] mx-auto mt-8"></div>
@@ -27,7 +27,7 @@
             </div>
             <div class="md:col-span-8 text-gray-600 space-y-6 text-sm md:text-base leading-relaxed">
                 <p>
-                    Deeply woven into the spiritual fabric of the Tamu community, <strong class="text-[#234433] font-semibold">Chhyopa Teh (छ्योप त्हें)</strong> is an intimate, sacred ritual dedicated entirely to honoring departed ancestors and securing the spiritual protection of the lineage (<span class="italic font-medium">पितृहरूको सम्मान र कुलको सुरक्षाका लागि समर्पित</span>). 
+                    Deeply woven into the spiritual fabric of the Tamu community, <strong class="text-[#234433] font-semibold">Chhyopa Teh (छ्योप त्हें)</strong> is an intimate, sacred ritual dedicated entirely to honoring departed ancestors and securing the spiritual protection of the lineage (<span class=" font-medium">पितृहरूको सम्मान र कुलको सुरक्षाका लागि समर्पित</span>). 
                 </p>
                 <p>
                     By gathering on this specific night, families reinforce their spiritual bond with their lineage, acting as a gateway of remembrance that ensures the blessings of the ancestors flow directly into the households before the turn of the calendar.
@@ -76,10 +76,10 @@
                     <h3 class="text-[#234433] text-2xl  mb-4">Prayers for Peace, Joy, and Prosperity</h3>
                     
                     <p>
-                        Observed faithfully <strong class="text-gray-900 font-medium">once every year on the night of Poush 14th</strong> (<span class="italic font-medium">प्रत्येक वर्ष पुस १४ गते राति</span>), this event serves as the grand prelude to the Tamu New Year. 
+                        Observed faithfully <strong class="text-gray-900 font-medium">once every year on the night of Poush 14th</strong> (<span class=" font-medium">प्रत्येक वर्ष पुस १४ गते राति</span>), this event serves as the grand prelude to the Tamu New Year. 
                     </p>
                     <p>
-                        This particular ceremony is a rigorous, profound night-long vigil (<span class="italic font-medium">रातभर गरिने यस विशेष अनुष्ठानमा</span>). Throughout the dark hours, the community offers prayers for the ultimate eternal peace of departed souls (<span class="italic font-medium">दिवंगत आत्माहरूको शान्तिको कामना गर्दै</span>). Concurrently, as the dawn of the new year approaches, families seek powerful ancestral blessings for health, happiness, and bountiful prosperity for both their individual households and the wider village society (<span class="italic font-medium">नयाँ वर्षमा परिवार र गाउँको सुख-समृद्धिको लागि आशीर्वाद माग्ने गरिन्छ</span>).
+                        This particular ceremony is a rigorous, profound night-long vigil (<span class=" font-medium">रातभर गरिने यस विशेष अनुष्ठानमा</span>). Throughout the dark hours, the community offers prayers for the ultimate eternal peace of departed souls (<span class=" font-medium">दिवंगत आत्माहरूको शान्तिको कामना गर्दै</span>). Concurrently, as the dawn of the new year approaches, families seek powerful ancestral blessings for health, happiness, and bountiful prosperity for both their individual households and the wider village society (<span class=" font-medium">नयाँ वर्षमा परिवार र गाउँको सुख-समृद्धिको लागि आशीर्वाद माग्ने गरिन्छ</span>).
                     </p>
                 </div>
 

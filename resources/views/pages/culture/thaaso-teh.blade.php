@@ -12,7 +12,7 @@
     <section class="max-w-4xl mx-auto px-6 pt-20 pb-12 text-center">
         <span class="text-[#C5A880] text-xs uppercase tracking-widest font-bold block mb-3">Culture &amp; Identity</span>
         <h1 class="text-[#234433] text-3xl md:text-5xl tracking-tight mb-6">थासो त्हें (Thaaso Teh)</h1>
-        <p class="text-gray-600 text-base md:text-lg max-w-2xl mx-auto leading-relaxed font-serif italic">
+        <p class="text-gray-600 text-base md:text-lg max-w-2xl mx-auto leading-relaxed font-serif">
             "सामाजिक एकता र पुर्ख्यौली विरासतको प्रतीक"
         </p>
         <div class="w-12 h-[1px] bg-[#C5A880] mx-auto mt-8"></div>
@@ -30,7 +30,7 @@
                     In the spiritual calendar of the Tamu community, <strong class="text-[#234433] font-semibold">Thaaso Teh (थासो त्हें)</strong> stands out as a profound symbol of social unity and ancestral heritage. This distinct celebration is dedicated entirely to honoring the history, trials, and triumphs of the clan's lineage, binding the living generation with the spirits of their predecessors.
                 </p>
                 <p>
-                    Through sacred chanting, ritual incantations (<span class="italic font-medium">मन्त्रोचारण</span>), and vibrant community gatherings, the deep-rooted identity of the clan is preserved and re-consecrated, ensuring that the legacy of the ancestors remains alive in the hearts of the younger generations.
+                    Through sacred chanting, ritual incantations (<span class=" font-medium">मन्त्रोचारण</span>), and vibrant community gatherings, the deep-rooted identity of the clan is preserved and re-consecrated, ensuring that the legacy of the ancestors remains alive in the hearts of the younger generations.
                 </p>
             </div>
         </div>
@@ -86,7 +86,7 @@
                         <strong class="text-gray-900 font-medium">Thaaso Teh</strong> is traditionally observed exactly <strong class="text-gray-900 font-medium">three times a year</strong>. The choice of these specific days carries deep seasonal and astrological meaning, aligning perfectly with periods of transitions, new harvests, and cosmic shifts in the Tamu calendar.
                     </p>
                     <p>
-                        On these designated days, families and larger clan groups gather at their respective ancestral sites or community spaces to carry out highly structured rituals with special methods (<span class="italic font-medium">विशेष विधि</span>). Far more than just a formal ceremony, it functions as a vital pillar for community solidarity—bringing relatives together to share food, reinforce kinship ties, and pass down the rich oral histories of their lineage.
+                        On these designated days, families and larger clan groups gather at their respective ancestral sites or community spaces to carry out highly structured rituals with special methods (<span class=" font-medium">विशेष विधि</span>). Far more than just a formal ceremony, it functions as a vital pillar for community solidarity—bringing relatives together to share food, reinforce kinship ties, and pass down the rich oral histories of their lineage.
                     </p>
                 </div>
 

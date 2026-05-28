@@ -66,7 +66,7 @@
                 <span class="text-[#C5A880] text-xs uppercase tracking-widest font-bold block mb-1">Evolution of Name</span>
                 <h2 class="text-[#234433] text-2xl md:text-3xl mb-4">"Anadi" to "Anadu"</h2>
                 <p>
-                    Over time, the settlement encountered shifting linguistic influences. In the Khas language, the village came to be known as <span class="text-[#234433] font-semibold italic">Anadi</span>—a deeply philosophical term translating to <strong class="text-gray-900 font-medium">Beginningless, Eternal, Primordial, and Ageless</strong>. 
+                    Over time, the settlement encountered shifting linguistic influences. In the Khas language, the village came to be known as <span class="text-[#234433] font-semibold">Anadi</span>—a deeply philosophical term translating to <strong class="text-gray-900 font-medium">Beginningless, Eternal, Primordial, and Ageless</strong>. 
                 </p>
                 <p class="text-gray-500 text-sm">
                     As administrative mappings modernized across the decades, this primordial name adapted phonetically into official records. It was formally recognized as <strong class="text-gray-800 font-medium">Anadu</strong>, categorized initially under the historic Lukumswara Village Development Committee (VDC), and later nested within the Pumdi Bhumdi VDC, before integrating into today's Pokhara-22.

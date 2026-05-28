@@ -60,7 +60,7 @@
                         The modern community is distributed organically across several distinctive internal settlements, each carrying its own name and character: <strong class="text-gray-800 font-medium">Maanikharka, Mulabari, Lychee Garden, Saaudara, Gairi, Andada,</strong> and <strong class="text-gray-800 font-medium">Ekleswara</strong>. 
                     </p>
                     <p class="text-xs bg-[#F7F5F0] p-4 rounded-sm border-l-2 border-[#C5A880]">
-                        <strong class="text-gray-900">Note on Chhoko Dhee:</strong> On the western frontier bordering the lake, our ancient community ancestral cemetery (<span class="italic font-semibold">Chhoko Dhee</span>) stands respectfully positioned between the natural banks of the <span class="font-medium">Aneri</span> and <span class="font-medium">Syaneri</span> rivers.
+                        <strong class="text-gray-900">Note on Chhoko Dhee:</strong> On the western frontier bordering the lake, our ancient community ancestral cemetery (<span class=" font-semibold">Chhoko Dhee</span>) stands respectfully positioned between the natural banks of the <span class="font-medium">Aneri</span> and <span class="font-medium">Syaneri</span> rivers.
                     </p>
                 </div>
 
@@ -93,7 +93,7 @@
                     Beyond our immediate hillslope properties, the villagers of Anadu maintain large, ancestral farming plots located directly out in the fertile plains of the <strong class="text-gray-900 font-semibold">Phewa Faat</strong>. This vital agricultural land is fully utilized twice a year, specializing in the intensive cultivation of the highly aromatic, prized local heritage rice strain: <strong class="text-brand-green font-medium">Jethobudho Dhaan</strong>.
                 </p>
                 <p>
-                    Because of our distinct position across the lake, the culmination of the harvest yields a beautiful, unique local tradition. Once the stalks are dried, massive stacks of protective golden hay (<span class="italic font-medium">paral</span>) are piled high into traditional wooden boats. Farmers then row across the open waters of the lake, transporting the livestock feed back home to sustain their cattle through the changing seasons.
+                    Because of our distinct position across the lake, the culmination of the harvest yields a beautiful, unique local tradition. Once the stalks are dried, massive stacks of protective golden hay (<span class=" font-medium">paral</span>) are piled high into traditional wooden boats. Farmers then row across the open waters of the lake, transporting the livestock feed back home to sustain their cattle through the changing seasons.
                 </p>
             </div>
         </div>

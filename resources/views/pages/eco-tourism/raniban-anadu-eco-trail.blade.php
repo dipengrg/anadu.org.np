@@ -48,7 +48,7 @@
                 </p>
                 <h3 class="font-serif font-bold text-lg text-gray-900 pt-2">Community Stewardship</h3>
                 <p>
-                    Every year during our post-monsoon <span class="italic font-medium">Baato Sarsafai Abhiyaan</span>, our families unite to clear the rapid weed overgrowth and seasonal brush that naturally interrupts the path. This ensuring clear visibility and safe passage for both local commuters and visiting nature travelers.
+                    Every year during our post-monsoon <span class=" font-medium">Baato Sarsafai Abhiyaan</span>, our families unite to clear the rapid weed overgrowth and seasonal brush that naturally interrupts the path. This ensuring clear visibility and safe passage for both local commuters and visiting nature travelers.
                 </p>
             </div>
 

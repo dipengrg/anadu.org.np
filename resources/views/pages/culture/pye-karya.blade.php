@@ -12,7 +12,7 @@
     <section class="max-w-4xl mx-auto px-6 pt-20 pb-12 text-center">
         <span class="text-[#C5A880] text-xs uppercase tracking-widest font-bold block mb-3">Culture &amp; Identity</span>
         <h1 class="text-[#234433] text-3xl md:text-5xl tracking-tight mb-6">Pye Karya (Arghau)</h1>
-        <p class="text-gray-600 text-base md:text-lg max-w-2xl mx-auto leading-relaxed font-serif italic">
+        <p class="text-gray-600 text-base md:text-lg max-w-2xl mx-auto leading-relaxed font-serif">
             "A sacred 3-night, 4-day ritual guiding the soul from the earthly realm to Simi Naasaa, the land of the ancestors."
         </p>
         <div class="w-12 h-[1px] bg-[#C5A880] mx-auto mt-8"></div>
@@ -25,10 +25,10 @@
                 <span class="text-[#C5A880] text-xs uppercase tracking-widest font-bold block mb-2">The Cosmic Foundation</span>
                 <h2 class="text-[#234433] text-2xl font-serif mb-4">The Ancestral Belief</h2>
                 <p class="text-gray-600 text-sm md:text-base leading-relaxed">
-                    Following the demise of a person, their cremated ashes are released into the lake. Although the physical body is gone, it is believed that the soul becomes free and may roam the earthly plane. If the soul is not formally assisted and guided to travel to the sacred land of the ancestors (<span class="italic font-medium text-gray-900">Simi Naasaa</span>), its wandering presence may bring bad luck, ill fate, and disease to the living family and community. 
+                    Following the demise of a person, their cremated ashes are released into the lake. Although the physical body is gone, it is believed that the soul becomes free and may roam the earthly plane. If the soul is not formally assisted and guided to travel to the sacred land of the ancestors (<span class=" font-medium text-gray-900">Simi Naasaa</span>), its wandering presence may bring bad luck, ill fate, and disease to the living family and community. 
                 </p>
                 <p class="text-gray-600 text-sm md:text-base leading-relaxed mt-4">
-                    To prevent this, the rigorous <strong class="text-gray-900 font-semibold">3-night, 4-day Pye Karya (Arghau)</strong> is organized as the most significant post-cremation planned ceremony of the Gurung people. The immediate family, along with extended clans, married daughters (<span class="italic font-medium">Chelibeti</span>), sons-in-law (<span class="italic font-medium">Jwai</span>), and the local community carefully coordinate the timeline under the expert spiritual guidance of the traditional <span class="font-medium text-gray-900">Pachyu</span> and <span class="font-medium text-gray-900">Klhepri</span> priests.
+                    To prevent this, the rigorous <strong class="text-gray-900 font-semibold">3-night, 4-day Pye Karya (Arghau)</strong> is organized as the most significant post-cremation planned ceremony of the Gurung people. The immediate family, along with extended clans, married daughters (<span class=" font-medium">Chelibeti</span>), sons-in-law (<span class=" font-medium">Jwai</span>), and the local community carefully coordinate the timeline under the expert spiritual guidance of the traditional <span class="font-medium text-gray-900">Pachyu</span> and <span class="font-medium text-gray-900">Klhepri</span> priests.
                 </p>
             </div>
         </div>
@@ -54,10 +54,10 @@
                     </div>
                     <div class="md:col-span-9 text-gray-600 text-sm md:text-base leading-relaxed space-y-3">
                         <p>
-                            This initial day is dedicated to formally inviting the soul of the deceased (<span class="italic font-medium">Bayoh</span>) to embark on its final transition. A ritual structure known as the <strong class="text-gray-900 font-medium">"Aanlaa"</strong> is erected, upon which clothing, currency, and the deceased person’s favorite foods are carefully hung, symbolizing their imminent departure toward the ancestral realm.
+                            This initial day is dedicated to formally inviting the soul of the deceased (<span class=" font-medium">Bayoh</span>) to embark on its final transition. A ritual structure known as the <strong class="text-gray-900 font-medium">"Aanlaa"</strong> is erected, upon which clothing, currency, and the deceased person’s favorite foods are carefully hung, symbolizing their imminent departure toward the ancestral realm.
                         </p>
                         <p>
-                            This profound rite begins in the late evening in the presence of the spiritual masters (<span class="italic font-medium">Pachyu-Klhepri</span>), clan leaders (<span class="italic font-medium">Takhrali</span>), immediate family members, brothers, married daughters, sons-in-law, and maternal uncles (<span class="italic font-medium">Asyong</span>). Furthermore, under strict shamanic restrictions, individuals belonging to specific zodiac signs (<span class="italic font-medium">Lho / Barga</span>) are forbidden from hearing the unique sound made when the <span class="italic font-medium">Aanlaa</span> is ritually barred.
+                            This profound rite begins in the late evening in the presence of the spiritual masters (<span class=" font-medium">Pachyu-Klhepri</span>), clan leaders (<span class=" font-medium">Takhrali</span>), immediate family members, brothers, married daughters, sons-in-law, and maternal uncles (<span class=" font-medium">Asyong</span>). Furthermore, under strict shamanic restrictions, individuals belonging to specific zodiac signs (<span class=" font-medium">Lho / Barga</span>) are forbidden from hearing the unique sound made when the <span class=" font-medium">Aanlaa</span> is ritually barred.
                         </p>
                     </div>
                 </div>
@@ -90,10 +90,10 @@
                     </div>
                     <div class="md:col-span-9 text-gray-600 text-sm md:text-base leading-relaxed space-y-3">
                         <p>
-                            This is an intensely emotional day, marking the definitive farewell as the soul is released from the physical world into the permanent ancestral village (<span class="italic font-medium">Khro-Naasa</span>). 
+                            This is an intensely emotional day, marking the definitive farewell as the soul is released from the physical world into the permanent ancestral village (<span class=" font-medium">Khro-Naasa</span>). 
                         </p>
                         <p>
-                            The core element of the day is the <strong class="text-gray-900 font-medium">"Kyuñ Chhaawa"</strong> ritual, during which a sheep—acting as the symbolic spiritual guide for the soul's journey—is fed a final meal of grain, ensuring the complete satisfaction and peaceful departure of the spirit. After the priests execute final rituals to cleanly sever all ties of earthly attachment between the living family and the deceased, the <span class="italic font-medium">Plah</span> and the <span class="italic font-medium">Aanlaa</span> structures are ritually dismantled and immersed, signifying the purification of the household and the eternal rest of the soul.
+                            The core element of the day is the <strong class="text-gray-900 font-medium">"Kyuñ Chhaawa"</strong> ritual, during which a sheep—acting as the symbolic spiritual guide for the soul's journey—is fed a final meal of grain, ensuring the complete satisfaction and peaceful departure of the spirit. After the priests execute final rituals to cleanly sever all ties of earthly attachment between the living family and the deceased, the <span class=" font-medium">Plah</span> and the <span class=" font-medium">Aanlaa</span> structures are ritually dismantled and immersed, signifying the purification of the household and the eternal rest of the soul.
                         </p>
                     </div>
                 </div>

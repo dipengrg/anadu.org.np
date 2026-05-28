@@ -27,10 +27,10 @@
             </div>
             <div class="md:col-span-8 text-gray-600 space-y-6 text-sm md:text-base leading-relaxed">
                 <p>
-                    In the rich cultural tapestry of the Gurung (Tamu) community, time is not merely counted; it is envisioned as a continuous, sacred circle known as <strong class="text-[#234433] font-semibold">Lhokor</strong>. Deeply tied to ancient Himalayan astrology, this system organizes time into the <span class="italic font-medium">Barga Chakra</span>—a zodiac wheel consisting of twelve distinct years, with each year represented by a specific animal.
+                    In the rich cultural tapestry of the Gurung (Tamu) community, time is not merely counted; it is envisioned as a continuous, sacred circle known as <strong class="text-[#234433] font-semibold">Lhokor</strong>. Deeply tied to ancient Himalayan astrology, this system organizes time into the <span class=" font-medium">Barga Chakra</span>—a zodiac wheel consisting of twelve distinct years, with each year represented by a specific animal.
                 </p>
                 <p>
-                    The mechanics of the <span class="italic">Barga Chakra</span> dictate that each individual animal sign (or <strong class="text-gray-900 font-medium">Barga</strong>) repeats exactly <strong class="text-gray-900 font-medium">every 12 years</strong>. When a person reaches a multiple of their birth year (such as age 12, 24, 36, 48, 60, or 72), they hit their matching zodiac year—a significant biological and spiritual milestone celebrated with deeply rooted family rituals to ward off misfortune and welcome renewed vitality.
+                    The mechanics of the <span class="">Barga Chakra</span> dictate that each individual animal sign (or <strong class="text-gray-900 font-medium">Barga</strong>) repeats exactly <strong class="text-gray-900 font-medium">every 12 years</strong>. When a person reaches a multiple of their birth year (such as age 12, 24, 36, 48, 60, or 72), they hit their matching zodiac year—a significant biological and spiritual milestone celebrated with deeply rooted family rituals to ward off misfortune and welcome renewed vitality.
                 </p>
                 <p>
                     The transition from one *Barga* to the next marks the arrival of the most important festival in the Tamu calendar: <strong class="text-gray-900 font-medium">Tamu Lhosar</strong> (the Gurung New Year), celebrated enthusiastically every year in late December (the 15th of Poush in the Bikram Sambat calendar).
@@ -62,62 +62,62 @@
                         <tr>
                             <td class="p-4 font-medium text-gray-900 text-center">1</td>
                             <td class="p-4 flex items-center gap-3 font-semibold text-gray-900"><span class="text-base">🐭</span> च्यु-ल्हो</td>
-                            <td class="p-4 text-gray-600 font-medium">मुसा वर्ग <span class="text-gray-400 italic font-normal text-xs ml-1">(Rat)</span></td>
+                            <td class="p-4 text-gray-600 font-medium">मुसा वर्ग <span class="text-gray-400 font-normal text-xs ml-1">(Rat)</span></td>
                         </tr>
                         <tr>
                             <td class="p-4 font-medium text-gray-900 text-center">2</td>
                             <td class="p-4 flex items-center gap-3 font-semibold text-gray-900"><span class="text-base">🐮</span> ल्वोँ-ल्हो</td>
-                            <td class="p-4 text-gray-600 font-medium">गाई वर्ग <span class="text-gray-400 italic font-normal text-xs ml-1">(Cow)</span></td>
+                            <td class="p-4 text-gray-600 font-medium">गाई वर्ग <span class="text-gray-400 font-normal text-xs ml-1">(Cow)</span></td>
                         </tr>
                         <tr>
                             <td class="p-4 font-medium text-gray-900 text-center">3</td>
                             <td class="p-4 flex items-center gap-3 font-semibold text-gray-900"><span class="text-base">🐅</span> तो-ल्हो</td>
-                            <td class="p-4 text-gray-600 font-medium">बाघ वर्ग <span class="text-gray-400 italic font-normal text-xs ml-1">(Tiger)</span></td>
+                            <td class="p-4 text-gray-600 font-medium">बाघ वर्ग <span class="text-gray-400 font-normal text-xs ml-1">(Tiger)</span></td>
                         </tr>
                         <tr>
                             <td class="p-4 font-medium text-gray-900 text-center">4</td>
                             <td class="p-4 flex items-center gap-3 font-semibold text-gray-900"><span class="text-base">🐈</span> हि-ल्हो</td>
-                            <td class="p-4 text-gray-600 font-medium">बिरालो वर्ग <span class="text-gray-400 italic font-normal text-xs ml-1">(Cat)</span></td>
+                            <td class="p-4 text-gray-600 font-medium">बिरालो वर्ग <span class="text-gray-400 font-normal text-xs ml-1">(Cat)</span></td>
                         </tr>
                         <tr>
                             <td class="p-4 font-medium text-gray-900 text-center">5</td>
                             <td class="p-4 flex items-center gap-3 font-semibold text-gray-900"><span class="text-base">🦅</span> मुप्रि-ल्हो</td>
-                            <td class="p-4 text-gray-600 font-medium">गरुड वर्ग <span class="text-gray-400 italic font-normal text-xs ml-1">(Garuda / Eagle)</span></td>
+                            <td class="p-4 text-gray-600 font-medium">गरुड वर्ग <span class="text-gray-400 font-normal text-xs ml-1">(Garuda / Eagle)</span></td>
                         </tr>
                         <tr>
                             <td class="p-4 font-medium text-gray-900 text-center">6</td>
                             <td class="p-4 flex items-center gap-3 font-semibold text-gray-900"><span class="text-base">🐍</span> सप्रि-ल्हो</td>
-                            <td class="p-4 text-gray-600 font-medium">सर्प वर्ग <span class="text-gray-400 italic font-normal text-xs ml-1">(Snake)</span></td>
+                            <td class="p-4 text-gray-600 font-medium">सर्प वर्ग <span class="text-gray-400 font-normal text-xs ml-1">(Snake)</span></td>
                         </tr>
                         <tr>
                             <td class="p-4 font-medium text-gray-900 text-center">7</td>
                             <td class="p-4 flex items-center gap-3 font-semibold text-gray-900"><span class="text-base">🐎</span> त-ल्हो</td>
-                            <td class="p-4 text-gray-600 font-medium">घोडा वर्ग <span class="text-gray-400 italic font-normal text-xs ml-1">(Horse)</span></td>
+                            <td class="p-4 text-gray-600 font-medium">घोडा वर्ग <span class="text-gray-400 font-normal text-xs ml-1">(Horse)</span></td>
                         </tr>
                         <tr>
                             <td class="p-4 font-medium text-gray-900 text-center">8</td>
                             <td class="p-4 flex items-center gap-3 font-semibold text-gray-900"><span class="text-base">🐑</span> ल्हुँ-ल्हो</td>
-                            <td class="p-4 text-gray-600 font-medium">भेडा वर्ग <span class="text-gray-400 italic font-normal text-xs ml-1">(Sheep)</span></td>
+                            <td class="p-4 text-gray-600 font-medium">भेडा वर्ग <span class="text-gray-400 font-normal text-xs ml-1">(Sheep)</span></td>
                         </tr>
                         <tr>
                             <td class="p-4 font-medium text-gray-900 text-center">9</td>
                             <td class="p-4 flex items-center gap-3 font-semibold text-gray-900"><span class="text-base">🐒</span> प्र-ल्हो</td>
-                            <td class="p-4 text-gray-600 font-medium">बाँदर वर्ग <span class="text-gray-400 italic font-normal text-xs ml-1">(Monkey)</span></td>
+                            <td class="p-4 text-gray-600 font-medium">बाँदर वर्ग <span class="text-gray-400 font-normal text-xs ml-1">(Monkey)</span></td>
                         </tr>
                         <tr>
                             <td class="p-4 font-medium text-gray-900 text-center">10</td>
                             <td class="p-4 flex items-center gap-3 font-semibold text-gray-900"><span class="text-base">🐓</span> च्ह्याँ-ल्हो</td>
-                            <td class="p-4 text-gray-600 font-medium">चरा वर्ग <span class="text-gray-400 italic font-normal text-xs ml-1">(Bird)</span></td>
+                            <td class="p-4 text-gray-600 font-medium">चरा वर्ग <span class="text-gray-400 font-normal text-xs ml-1">(Bird)</span></td>
                         </tr>
                         <tr>
                             <td class="p-4 font-medium text-gray-900 text-center">11</td>
                             <td class="p-4 flex items-center gap-3 font-semibold text-gray-900"><span class="text-base">🐕</span> खि-ल्हो</td>
-                            <td class="p-4 text-gray-600 font-medium">कुकुर वर्ग <span class="text-gray-400 italic font-normal text-xs ml-1">(Dog)</span></td>
+                            <td class="p-4 text-gray-600 font-medium">कुकुर वर्ग <span class="text-gray-400 font-normal text-xs ml-1">(Dog)</span></td>
                         </tr>
                         <tr>
                             <td class="p-4 font-medium text-gray-900 text-center">12</td>
                             <td class="p-4 flex items-center gap-3 font-semibold text-gray-900"><span class="text-base">🦌</span> फो-ल्हो</td>
-                            <td class="p-4 text-gray-600 font-medium">मृग वर्ग <span class="text-gray-400 italic font-normal text-xs ml-1">(Deer)</span></td>
+                            <td class="p-4 text-gray-600 font-medium">मृग वर्ग <span class="text-gray-400 font-normal text-xs ml-1">(Deer)</span></td>
                         </tr>
                     </tbody>
                 </table>
@@ -137,7 +137,7 @@
                     The *Barga Chakra* extends far beyond simple date-keeping. In traditional Gurung society, a person’s born *Barga* is believed to deeply influence their character traits, natural strengths, and general disposition in life. 
                 </p>
                 <p>
-                    When major milestone cultural activities or communal events—such as weddings, naming ceremonies, or traditional <span class="italic">Pye Karya (Arghau)</span> rites—are organized, the matching and contrasting dynamics of the participants' *Bargas* are carefully weighed by the cultural shamanic priests (<span class="font-medium text-gray-900">Pachyu</span> and <span class="font-medium text-gray-900">Ghyabri</span>) to ensure structural harmony, spiritual protection, and collective prosperity for the community.
+                    When major milestone cultural activities or communal events—such as weddings, naming ceremonies, or traditional <span class="">Pye Karya (Arghau)</span> rites—are organized, the matching and contrasting dynamics of the participants' *Bargas* are carefully weighed by the cultural shamanic priests (<span class="font-medium text-gray-900">Pachyu</span> and <span class="font-medium text-gray-900">Ghyabri</span>) to ensure structural harmony, spiritual protection, and collective prosperity for the community.
                 </p>
             </div>
         </div>

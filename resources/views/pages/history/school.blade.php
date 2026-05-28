@@ -28,7 +28,7 @@
                     In the early 20th century, the scenic valley of Pokhara possessed an incredibly restrictive educational landscape. Beyond standard domestic learning, the region relied solely on a single traditional language pathshala. 
                 </p>
                 <p>
-                    Education during this time was limited strictly to select families who would carry wrapped bundles of Vedic texts, the <span class="italic font-medium">Chandi</span>, and <span class="italic font-medium">Rudri</span> tied around their waists to study traditional rituals (<span class="font-medium">Karmakanda</span>). For the wider community, including the indigenous families near the lakeshore, access to functional, modern global literacy and English education was virtually non-existent.
+                    Education during this time was limited strictly to select families who would carry wrapped bundles of Vedic texts, the <span class=" font-medium">Chandi</span>, and <span class=" font-medium">Rudri</span> tied around their waists to study traditional rituals (<span class="font-medium">Karmakanda</span>). For the wider community, including the indigenous families near the lakeshore, access to functional, modern global literacy and English education was virtually non-existent.
                 </p>
             </div>
         </div>
@@ -74,7 +74,7 @@
 
                     <!-- Source Citation Footer -->
                     <div class="mt-6 pt-4 border-t border-gray-100 text-[11px] text-gray-400">
-                        <p>Source: <span class="italic font-medium text-gray-500">"मेरो जीवनमा बुद्धधर्म"</span>, Authored by Min Bahadur Gurung, Pumdi Bhumdi - 1, Taalpari, Anadu</p>
+                        <p>Source: <span class=" font-medium text-gray-500">"मेरो जीवनमा बुद्धधर्म"</span>, Authored by Min Bahadur Gurung, Pumdi Bhumdi - 1, Taalpari, Anadu</p>
                     </div>
                 </div>
 
@@ -108,7 +108,7 @@
                     When the school was first set up in <strong class="text-gray-900 font-medium">2007 BS</strong>, it was perched high upon <strong class="text-gray-900 font-medium">Manikharka Dada</strong>. Being the solitary educational bastion in the area, it initially drew large numbers of students from neighboring Brahmin communities and surrounding villages across the entire Lukumswara Village Development Committee (VDC). Over the decades, as other regional schools slowly emerged across the VDC, outlying students began enrolling closer to home, focusing Anadu Primary School’s demographic strictly on its native children.
                 </p>
                 <p>
-                    However, Anadu’s unique topography posed a severe structural barrier. The village is split across two prominent ridges: the first hill encompasses <span class="italic font-medium">Manikharka</span> and <span class="italic font-medium">Mulabari</span>, while the opposing hill shelters <span class="italic font-medium">Saaudara, Gairi, Andada,</span> and <span class="italic font-medium">Ekleswara</span>. For young children trekking from the far settlements of Saaudara, Andada, and Ekleswara, attending school meant navigating punishing distances—daily descending into rugged ravines, crossing the volatile waters of the <strong class="text-gray-900 font-medium">Budhkhola</strong> and <strong class="text-gray-900 font-medium">Aamchyo Khola</strong>, and scaling the steep ascent up Manikharka hill.
+                    However, Anadu’s unique topography posed a severe structural barrier. The village is split across two prominent ridges: the first hill encompasses <span class=" font-medium">Manikharka</span> and <span class=" font-medium">Mulabari</span>, while the opposing hill shelters <span class=" font-medium">Saaudara, Gairi, Andada,</span> and <span class=" font-medium">Ekleswara</span>. For young children trekking from the far settlements of Saaudara, Andada, and Ekleswara, attending school meant navigating punishing distances—daily descending into rugged ravines, crossing the volatile waters of the <strong class="text-gray-900 font-medium">Budhkhola</strong> and <strong class="text-gray-900 font-medium">Aamchyo Khola</strong>, and scaling the steep ascent up Manikharka hill.
                 </p>
                 <p>
                     Recognizing that this exhausting trek was too hazardous for young children, recently retired British Gurkha veteran <strong class="text-gray-900 font-semibold">Lieutenant Bhim Prasad Gurung</strong> intervened. Believing that the school must sit at the geographic heart of the community, he coordinated a collective effort. Under his coordination and initiative, prominent local land owners—<strong class="text-gray-900 font-medium">Man Bahadur Gurung</strong> and <strong class="text-gray-900 font-medium">Tas Bahadur Gurung</strong>—generously stepped forward to donate their private property located down in the central basin of <strong class="text-[#234433] font-semibold">Sisneri Bagar</strong>.
@@ -135,8 +135,8 @@
                     <p>
                         At its peak operational era, this thriving community primary school successfully taught classes up through the <strong class="text-gray-900 font-medium">fifth level</strong>. 
                     </p>
-                    <p class="text-xs italic bg-white p-4 rounded-sm border-l-2 border-[#C5A880] shadow-sm">
-                        <strong class="text-gray-900 font-sans not-italic block mb-1">The Contemporary Era:</strong>
+                    <p class="text-xs bg-white p-4 rounded-sm border-l-2 border-[#C5A880] shadow-sm">
+                        <strong class="text-gray-900 font-sans not- block mb-1">The Contemporary Era:</strong>
                         In the current age of rapid urbanization, shifting demographic trends, and the widespread rise of private English-medium boarding schools, the institutional footprint of this historic government facility has naturally shrunk. Today, it perseveres by focusing its resources entirely on nurturing the village's youngest generation, handling preschool students only.
                     </p>
                 </div>

@@ -47,7 +47,7 @@
                     Long before it was mapped on global tourist routes, the lake held profound sacred meaning for the indigenous Gurung people, who practiced Bonism—a deep form of nature worship. To our ancestors, the surrounding jungles, untamed rivers, towering peaks, and open waters were living deities.
                 </p>
                 <p>
-                    When approaching the water, villagers would traditionally bow down in deep reverence—a sacred gesture known natively as <strong class="text-gray-900 font-medium">Fyoba</strong>. It was from this spiritual devotion that the water body earned its true name: <strong class="text-[#234433] font-semibold">Fyoba Taal</strong>. Alternately, across the eastern shore, the residents of Baidam (modern-day Lakeside) historically referred to it as <span class="italic">Baidam Taal</span>.
+                    When approaching the water, villagers would traditionally bow down in deep reverence—a sacred gesture known natively as <strong class="text-gray-900 font-medium">Fyoba</strong>. It was from this spiritual devotion that the water body earned its true name: <strong class="text-[#234433] font-semibold">Fyoba Taal</strong>. Alternately, across the eastern shore, the residents of Baidam (modern-day Lakeside) historically referred to it as <span class="">Baidam Taal</span>.
                 </p>
             </div>
         </div>

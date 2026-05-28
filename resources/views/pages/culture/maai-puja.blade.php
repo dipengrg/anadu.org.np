@@ -12,7 +12,7 @@
     <section class="max-w-4xl mx-auto px-6 pt-20 pb-12 text-center">
         <span class="text-[#C5A880] text-xs uppercase tracking-widest font-bold block mb-3">Culture &amp; Identity</span>
         <h1 class="text-[#234433] text-3xl md:text-5xl tracking-tight mb-6">माई पूजा (Maai Puja)</h1>
-        <p class="text-gray-600 text-base md:text-lg max-w-2xl mx-auto leading-relaxed font-serif italic">
+        <p class="text-gray-600 text-base md:text-lg max-w-2xl mx-auto leading-relaxed font-serif">
             "सन्तानको सुस्वास्थ्य, गाउँको समृद्धि र महिलाहरूको नेतृत्व"
         </p>
         <div class="w-12 h-[1px] bg-[#C5A880] mx-auto mt-8"></div>
@@ -27,10 +27,10 @@
             </div>
             <div class="md:col-span-8 text-gray-600 space-y-6 text-sm md:text-base leading-relaxed">
                 <p>
-                    Rooted deeply within the traditional spiritual heritage of the Tamu community, <strong class="text-[#234433] font-semibold">Maai Puja (माई पूजा)</strong> is a deeply revered annual festival that brings profound spiritual peace to the settlement. The ritual is carried out with collective devotion, focusing specifically on wishing for the robust health and long life of children, alongside the overarching economic and agricultural prosperity of the entire village (<span class="italic font-medium">सन्तानको सुस्वास्थ्य र गाउँको समृद्धिको कामना</span>).
+                    Rooted deeply within the traditional spiritual heritage of the Tamu community, <strong class="text-[#234433] font-semibold">Maai Puja (माई पूजा)</strong> is a deeply revered annual festival that brings profound spiritual peace to the settlement. The ritual is carried out with collective devotion, focusing specifically on wishing for the robust health and long life of children, alongside the overarching economic and agricultural prosperity of the entire village (<span class=" font-medium">सन्तानको सुस्वास्थ्य र गाउँको समृद्धिको कामना</span>).
                 </p>
                 <p>
-                    By making traditional offerings to the sacred feminine forces of nature at the designated Maai Thaan, the community invokes protection over their households. This localized spiritual devotion infuses the entire village with an enduring sense of communal harmony, calm, and absolute spiritual tranquility (<span class="italic font-medium">गाउँमा आध्यात्मिक शान्ति प्रदान गर्दछ</span>).
+                    By making traditional offerings to the sacred feminine forces of nature at the designated Maai Thaan, the community invokes protection over their households. This localized spiritual devotion infuses the entire village with an enduring sense of communal harmony, calm, and absolute spiritual tranquility (<span class=" font-medium">गाउँमा आध्यात्मिक शान्ति प्रदान गर्दछ</span>).
                 </p>
             </div>
         </div>
@@ -69,10 +69,10 @@
                     <h3 class="text-[#234433] text-2xl mb-4">The Active Participation of Women</h3>
                     
                     <p>
-                        <strong class="text-gray-900 font-medium">Maai Puja</strong> is celebrated on a grand, magnificent scale (<span class="italic font-medium">भव्य रूपमा सम्पन्न हुन्छ</span>) precisely <strong class="text-gray-900 font-medium">once every year</strong> in the spring, marking a vital period of growth and renewal.
+                        <strong class="text-gray-900 font-medium">Maai Puja</strong> is celebrated on a grand, magnificent scale (<span class=" font-medium">भव्य रूपमा सम्पन्न हुन्छ</span>) precisely <strong class="text-gray-900 font-medium">once every year</strong> in the spring, marking a vital period of growth and renewal.
                     </p>
                     <p>
-                        A defining pillar of this sacred festival is the highly active participation and leadership of the community's women (<span class="italic font-medium">महिलाहरूको सक्रिय सहभागिता रहन्छ</span>). From preparing the ritual ingredients to leading the devotional space, the women step into the forefront as the spiritual guardians of their children's future and the village's health, beautifully mirroring the matriarchal reverence woven throughout indigenous Tamu customs.
+                        A defining pillar of this sacred festival is the highly active participation and leadership of the community's women (<span class=" font-medium">महिलाहरूको सक्रिय सहभागिता रहन्छ</span>). From preparing the ritual ingredients to leading the devotional space, the women step into the forefront as the spiritual guardians of their children's future and the village's health, beautifully mirroring the matriarchal reverence woven throughout indigenous Tamu customs.
                     </p>
                 </div>
 

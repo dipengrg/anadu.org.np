@@ -49,7 +49,7 @@
                         Pokhara - 22, Taalpari Anadu<br>
                         Gandaki Province, Nepal
                     </p>
-                    <span class="text-[11px] text-gray-500 italic block mt-2">
+                    <span class="text-[11px] text-gray-500 block mt-2">
                         Accessible primarily via a 20-30 min boat transit or a 2-hour trek along the Raniban Eco-Trail.
                     </span>
                 </div>

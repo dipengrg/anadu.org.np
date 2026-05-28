@@ -27,10 +27,10 @@
             </div>
             <div class="md:col-span-8 text-gray-600 space-y-6 text-sm md:text-base leading-relaxed">
                 <p>
-                    The Gurung people natively speak the <strong class="text-gray-900 font-semibold">Tamu language</strong>, natively known as <span class="italic font-medium">Tamu Kyi</span>. Belonging to the Sino-Tibetan language family, this rich linguistic tradition has historically been preserved and passed down from one generation to the next primarily through word-of-mouth and oral storytelling. The endonym <strong class="text-[#234433] font-medium">Tamu (तमू)</strong> is the precise term Gurungs use to define themselves. 
+                    The Gurung people natively speak the <strong class="text-gray-900 font-semibold">Tamu language</strong>, natively known as <span class=" font-medium">Tamu Kyi</span>. Belonging to the Sino-Tibetan language family, this rich linguistic tradition has historically been preserved and passed down from one generation to the next primarily through word-of-mouth and oral storytelling. The endonym <strong class="text-[#234433] font-medium">Tamu (तमू)</strong> is the precise term Gurungs use to define themselves. 
                 </p>
                 <p>
-                    Etymologically, the term "Gurung" is derived from the ancient Tibetan word <span class="italic font-medium">"Gru-gu"</span>, which beautifully translates to <span class="italic">"to bring down."</span> This linguistic marker stands as a direct historical reflection of their ancestral migration from the high Tibetan plateau down onto the lush, southern slopes of the Himalayas.
+                    Etymologically, the term "Gurung" is derived from the ancient Tibetan word <span class=" font-medium">"Gru-gu"</span>, which beautifully translates to <span class="">"to bring down."</span> This linguistic marker stands as a direct historical reflection of their ancestral migration from the high Tibetan plateau down onto the lush, southern slopes of the Himalayas.
                 </p>
                 <div class="bg-[#F7F5F0] p-5 rounded-sm border-l-2 border-[#C5A880] text-xs space-y-2">
                     <span class="font-sans font-bold uppercase tracking-wider text-gray-900 block">Socio-Linguistic Shift</span>
@@ -54,13 +54,13 @@
                     <span class="text-[10px] uppercase font-sans tracking-widest font-bold text-[#C5A880] block">Athentic Women's Garments</span>
                     <h3 class="text-[#234433] text-xl font-serif">The Female Silhouette</h3>
                     <p class="text-gray-600 text-xs md:text-sm leading-relaxed">
-                        The traditional clothing of Gurung women is layered with deep textile artistry. The ensemble prominently features the <span class="font-medium text-gray-900">Cholo</span> or <span class="font-medium text-gray-900">Chaubandi Cholo</span> (a double-breasted blouse), paired elegantly with a wrap-around skirt known as the <span class="italic">Phariya</span> or <span class="italic">Lungi</span>. 
+                        The traditional clothing of Gurung women is layered with deep textile artistry. The ensemble prominently features the <span class="font-medium text-gray-900">Cholo</span> or <span class="font-medium text-gray-900">Chaubandi Cholo</span> (a double-breasted blouse), paired elegantly with a wrap-around skirt known as the <span class="">Phariya</span> or <span class="">Lungi</span>. 
                     </p>
                     <p class="text-gray-600 text-xs md:text-sm leading-relaxed">
-                        A protective <span class="font-medium text-gray-900">Patuki</span> sash is wound tightly around the waist for structural support, while the iconic <strong class="text-[#234433] font-medium">Ghalek</strong> is draped cross-bodied diagonally from the shoulder down to the waist. The head and shoulders are gracefully adorned with a light <span class="italic">Pachhyauri</span> cloth.
+                        A protective <span class="font-medium text-gray-900">Patuki</span> sash is wound tightly around the waist for structural support, while the iconic <strong class="text-[#234433] font-medium">Ghalek</strong> is draped cross-bodied diagonally from the shoulder down to the waist. The head and shoulders are gracefully adorned with a light <span class="">Pachhyauri</span> cloth.
                     </p>
-                    <p class="text-gray-600 text-xs md:text-sm leading-relaxed pt-2 border-t border-gray-200/60 font-serif italic">
-                        <strong class="not-italic font-sans text-[11px] uppercase tracking-wider block text-gray-900 mb-1">Ornamentation:</strong>
+                    <p class="text-gray-600 text-xs md:text-sm leading-relaxed pt-2 border-t border-gray-200/60 font-serif">
+                        <strong class="not- font-sans text-[11px] uppercase tracking-wider block text-gray-900 mb-1">Ornamentation:</strong>
                         Intricate jewelry completes the dress, including the braided <span class="font-medium text-gray-900">Dori</span> in the hair, precious <span class="font-medium text-gray-900">Kantha</span> or <span class="font-medium text-gray-900">Muga ko Mala</span> (coral bead necklaces), detailed earrings, nose ornaments, structural bangles, and traditional anklets.
                     </p>
                 </div>
@@ -73,10 +73,10 @@
                         Engineered for practical durability, the traditional attire for men includes the <strong class="text-[#234433] font-medium">Kachhad (or Kaas)</strong>—a functional, white wrap-around lower garment. This is worn alongside the <span class="font-medium text-gray-900">Bhoto</span>, a light, short-sleeved shirt fastened securely at the front with cloth ties. 
                     </p>
                     <p class="text-gray-600 text-xs md:text-sm leading-relaxed">
-                        Similar to the women's wear, a sturdy <span class="font-medium text-gray-900">Patuka</span> sash is wrapped around the waist as a supportive belt. Draped across the chest is the celebrated <strong class="text-gray-900 font-medium">Bhangra</strong> (also termed <span class="italic">Ryenga</span> or <span class="italic">Nhigi</span>), a resilient, handwoven cross-cloth traditionally extracted from wild nettle fibers that famously serves a dual purpose as a heavy-duty carrying pouch.
+                        Similar to the women's wear, a sturdy <span class="font-medium text-gray-900">Patuka</span> sash is wrapped around the waist as a supportive belt. Draped across the chest is the celebrated <strong class="text-gray-900 font-medium">Bhangra</strong> (also termed <span class="">Ryenga</span> or <span class="">Nhigi</span>), a resilient, handwoven cross-cloth traditionally extracted from wild nettle fibers that famously serves a dual purpose as a heavy-duty carrying pouch.
                     </p>
-                    <p class="text-gray-600 text-xs md:text-sm leading-relaxed pt-2 border-t border-gray-200/60 font-serif italic">
-                        <strong class="not-italic font-sans text-[11px] uppercase tracking-wider block text-gray-900 mb-1">Environmental Adaptation:</strong>
+                    <p class="text-gray-600 text-xs md:text-sm leading-relaxed pt-2 border-t border-gray-200/60 font-serif">
+                        <strong class="not- font-sans text-[11px] uppercase tracking-wider block text-gray-900 mb-1">Environmental Adaptation:</strong>
                         To meet the rugged and freezing demands of high-altitude agricultural and pastoral lifestyles, men historically capped their attire with distinct woven top caps and thick woolen wraps.
                     </p>
                 </div>
@@ -84,7 +84,7 @@
 
             <!-- Costume Contemporary Footnote -->
             <div class="mt-12 text-center max-w-xl mx-auto">
-                <p class="text-xs text-gray-400 italic">
+                <p class="text-xs text-gray-400">
                     Note: In contemporary Tamu society, everyday reliance on these heavy garments has naturally declined. Today, these beautiful attires are preserved and worn proudly during major cultural festivals, milestone life rituals, and formal community events.
                 </p>
             </div>
@@ -103,7 +103,7 @@
                     The core spiritual architecture of the Gurung community is deeply rooted within the ancient, indigenous <strong class="text-[#234433] font-semibold">Bon religion</strong>. Departing from classic western concepts of a singular, personalized deity, Bon cosmology views <strong class="text-gray-900 font-medium">nature itself—the untamed jungles, the roaring rivers, and the vast lakes—as the ultimate living god</strong>. Their day-to-day spiritual practices naturally embody a profound synthesis of animism and shamanism.
                 </p>
                 <p>
-                    Rather than building centralized, imposing cathedrals, the community communicates with the spiritual world at specialized natural shrines known as <span class="italic font-medium">Thaan</span> (miniature open-air altars). These holy micro-sanctuaries are meticulously designated throughout the village landscape to appease distinct spiritual elements:
+                    Rather than building centralized, imposing cathedrals, the community communicates with the spiritual world at specialized natural shrines known as <span class=" font-medium">Thaan</span> (miniature open-air altars). These holy micro-sanctuaries are meticulously designated throughout the village landscape to appease distinct spiritual elements:
                 </p>
                 
                 <!-- Thaan Grid Layout -->
@@ -122,7 +122,7 @@
                     Furthermore, the community erects beautiful, distinct <span class="font-medium text-gray-900">pagoda-style stone monuments</span> solely dedicated to ancestral worship. It is here that relatives periodically gather to execute the <strong class="text-[#234433] font-medium">Smriti Punya Pujaa</strong>—a sacred ritual of remembrance designed to feed, honor, and seek the protection of their direct bloodline ancestors.
                 </p>
                 <p>
-                    Over centuries of close geographic and cultural coexistence with wider Himalayan communities, Hindu traditions have naturally woven into their calendar. Today, many families enthusiastically observe <span class="font-medium text-gray-900">Naag Panchami</span>, maintaining their own specialized clan <span class="italic font-medium">Naag Thaan</span> to show ultimate reverence to the sacred serpent protectors of the subterranean waters and soils.
+                    Over centuries of close geographic and cultural coexistence with wider Himalayan communities, Hindu traditions have naturally woven into their calendar. Today, many families enthusiastically observe <span class="font-medium text-gray-900">Naag Panchami</span>, maintaining their own specialized clan <span class=" font-medium">Naag Thaan</span> to show ultimate reverence to the sacred serpent protectors of the subterranean waters and soils.
                 </p>
             </div>
         </div>

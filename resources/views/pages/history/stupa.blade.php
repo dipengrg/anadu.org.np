@@ -34,7 +34,7 @@
                     A profound encounter facilitated by the nun <strong class="text-gray-900 font-medium">Dharmashila Anagarika (Dharmashilla Guruma)</strong> brought Fujii Guruji together with local leader <strong class="text-gray-900 font-medium">Min Bahadur Gurung</strong>. During this meeting, Fujii Guruji presented Gurung with a 3.5-foot infant Buddha statue. On September 12, 1973, Nichidatsu Fujii laid the foundation stone alongside sacred relics of the Buddha on Anadu Hill.
                 </p>
                 <p>
-                    Driven by immediate devotion, Min Bahadur Gurung single-handedly funded and constructed a modest, initial tin-roofed prayer temple measuring 61 ft × 21 ft × 15 ft alongside a small priest residence on his private land at <span class="italic font-medium">Mane Khark</span>. This statue was formally consecrated on <strong class="text-gray-900 font-medium">Mangsir 13, 2030 B.S. (November 28, 1973)</strong>. Witnessing this profound community sacrifice, Fujii Guruji offered full funding to transform the hilltop site into a grand, monumental World Peace Pagoda, under the condition that local Nepalese citizens provide the voluntary labor to forge true community ownership.
+                    Driven by immediate devotion, Min Bahadur Gurung single-handedly funded and constructed a modest, initial tin-roofed prayer temple measuring 61 ft × 21 ft × 15 ft alongside a small priest residence on his private land at <span class=" font-medium">Mane Khark</span>. This statue was formally consecrated on <strong class="text-gray-900 font-medium">Mangsir 13, 2030 B.S. (November 28, 1973)</strong>. Witnessing this profound community sacrifice, Fujii Guruji offered full funding to transform the hilltop site into a grand, monumental World Peace Pagoda, under the condition that local Nepalese citizens provide the voluntary labor to forge true community ownership.
                 </p>
             </div>
         </div>
@@ -64,7 +64,7 @@
                     <span class="text-[#C5A880] text-xs uppercase tracking-widest font-bold block">State Intervention</span>
                     <h3 class="text-[#234433] text-2xl mb-4">The Demolition of 2031 B.S.</h3>
                     <p>
-                        The construction quickly scaled into a massive local public movement, drawing hundreds of daily volunteers up the ridges of Minthumki. However, when the main pagoda structure reached a height of roughly 35 to 45 feet, it triggered hostile political intervention from the local administration acting under the Pokhara Town Planning Committee (<span class="italic">Nagar Yojana</span>). 
+                        The construction quickly scaled into a massive local public movement, drawing hundreds of daily volunteers up the ridges of Minthumki. However, when the main pagoda structure reached a height of roughly 35 to 45 feet, it triggered hostile political intervention from the local administration acting under the Pokhara Town Planning Committee (<span class="">Nagar Yojana</span>). 
                     </p>
                     <p>
                         Claiming the project lacked formal municipal approval, violated strict zoning laws, and encroached upon a protected royal forest boundary, the Royal Nepal Government demanded the immediate cessation and destruction of the site for security and regulatory reasons.
@@ -98,27 +98,27 @@
                 <tbody class="text-gray-600 divide-y divide-gray-100 bg-white">
                     <tr>
                         <td class="p-4 font-medium text-gray-900">2030/12/02</td>
-                        <td class="p-4 italic">Forest Office Letter</td>
-                        <td class="p-4">Signed by Ranger Gopal Prasad, demanding a complete operational halt by asserting the temple occupied unapproved royal forest land (<span class="italic">Van Batika</span>).</td>
+                        <td class="p-4">Forest Office Letter</td>
+                        <td class="p-4">Signed by Ranger Gopal Prasad, demanding a complete operational halt by asserting the temple occupied unapproved royal forest land (<span class="">Van Batika</span>).</td>
                     </tr>
                     <tr>
                         <td class="p-4 font-medium text-gray-900">2031/01/20</td>
-                        <td class="p-4 italic">Official Application</td>
+                        <td class="p-4">Official Application</td>
                         <td class="p-4">Min Bahadur Gurung formally submitted architectural blueprints and structural applications to the Pokhara Town Planning Committee for his ancestral private land.</td>
                     </tr>
                     <tr>
                         <td class="p-4 font-medium text-gray-900">2031/03/13</td>
-                        <td class="p-4 italic">Police Transit Permit</td>
+                        <td class="p-4">Police Transit Permit</td>
                         <td class="p-4">Official transit permit issued to securely transport 200 bags of construction cement from Kathmandu to Pokhara, establishing that materials were legally obtained.</td>
                     </tr>
                     <tr>
                         <td class="p-4 font-medium text-gray-900">2031/04/13</td>
-                        <td class="p-4 italic">Rejection Order</td>
+                        <td class="p-4">Rejection Order</td>
                         <td class="p-4">The Town Planning Committee officially issued a rejection order exactly four months post-submission, calculating a legislative pretext for the forceful demolition weeks later.</td>
                     </tr>
                     <tr>
                         <td class="p-4 font-medium text-gray-900">2031/12/06 &amp; 2032/06/08</td>
-                        <td class="p-4 italic">Court Verdicts</td>
+                        <td class="p-4">Court Verdicts</td>
                         <td class="p-4">Following a grueling legal defense, the Kaski District Court and Gandaki Regional Court ruled entirely in Gurung's favor, validating his land rights and ordering local police to restore all seized corrugated sheets.</td>
                     </tr>
                 </tbody>
@@ -144,8 +144,8 @@
                     <p>
                         The subsequent construction progressed seamlessly without further state obstruction, culminating in a grand inaugural ceremony on <strong class="text-gray-900 font-medium">October 30, 1999</strong>, led once again by Koirala. Built through the combined leadership of Nipponzan-Myōhōji monk Morioka Sonin, local supporters, and the ancestral lands of the community, it stands today as the very first World Peace Pagoda in Nepal, and the 71st monument constructed by the order globally.
                     </p>
-                    <p class="text-xs italic bg-white p-4 rounded-sm border-l-2 border-[#C5A880] shadow-sm">
-                        <strong class="text-gray-900 font-sans not-italic block mb-1">Architectural Footprint:</strong>
+                    <p class="text-xs bg-white p-4 rounded-sm border-l-2 border-[#C5A880] shadow-sm">
+                        <strong class="text-gray-900 font-sans not- block mb-1">Architectural Footprint:</strong>
                         Today, the brilliant white stupa reaches a soaring height of 115 feet with a diameter of 344 feet. To permanently honor his monumental devotion and pivotal land sacrifice, a statue of the former elected official Min Bahadur Gurung stands prominently erected directly in front of the Shanti Stupa plaza.
                     </p>
                 </div>
@@ -155,7 +155,7 @@
                     <div class="aspect-[4/5] w-full bg-white border border-gray-200/60 rounded-sm p-8 flex flex-col justify-between shadow-sm">
                         <div class="space-y-4">
                             <span class="text-[#C5A880] text-4xl block font-serif">“</span>
-                            <p class="text-gray-600 text-sm italic font-serif leading-relaxed">
+                            <p class="text-gray-600 text-sm font-serif leading-relaxed">
                                 "I was ready to sacrifice my physical body against any obstacles to build the temple for the welfare of mankind."
                             </p>
                         </div>

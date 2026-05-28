@@ -26,13 +26,13 @@
             </div>
             <div class="md:col-span-8 text-gray-600 space-y-6 text-sm md:text-base leading-relaxed">
                 <p>
-                    Nestled reverently on the edge of the water, <strong class="text-gray-900 font-medium">Chhoko Dhee</strong> serves as the traditional cemetery for the Gurung community of Anadu. Geographically defined by nature, this sacred space is located between the boundaries of the <span class="italic font-medium">Aneri Khola</span> and <span class="italic font-medium">Syaneri Khola</span> close to the lake. Within these grounds, the bodies of departed souls are primarily cremated. However, in exceptional circumstances, burials are also performed in accordance with the explicit final wishes of the parents or the deceased.
+                    Nestled reverently on the edge of the water, <strong class="text-gray-900 font-medium">Chhoko Dhee</strong> serves as the traditional cemetery for the Gurung community of Anadu. Geographically defined by nature, this sacred space is located between the boundaries of the <span class=" font-medium">Aneri Khola</span> and <span class=" font-medium">Syaneri Khola</span> close to the lake. Within these grounds, the bodies of departed souls are primarily cremated. However, in exceptional circumstances, burials are also performed in accordance with the explicit final wishes of the parents or the deceased.
                 </p>
                 <p>
-                    The execution of a person's last rites on this ground is guided under the spiritual direction of the <strong class="text-[#234433] font-semibold">Klehpri priest</strong>. In a deeply symbolic procession, the funeral attendees (<span class="italic font-medium">Malaami</span>) carry the deceased and revolve around the crematorium in an <strong class="text-gray-900 font-medium">anti-clockwise direction exactly three times</strong> before the body is carefully placed upon the funeral pyre. 
+                    The execution of a person's last rites on this ground is guided under the spiritual direction of the <strong class="text-[#234433] font-semibold">Klehpri priest</strong>. In a deeply symbolic procession, the funeral attendees (<span class=" font-medium">Malaami</span>) carry the deceased and revolve around the crematorium in an <strong class="text-gray-900 font-medium">anti-clockwise direction exactly three times</strong> before the body is carefully placed upon the funeral pyre. 
                 </p>
                 <p>
-                    This final farewell is a comprehensive communal gathering. The entire village unites alongside the immediate <span class="italic font-medium">Bhai Khalak</span> (clan), the <span class="italic font-medium">Chelibeti</span> (both married and unmarried daughters), the <span class="italic font-medium">Jwais</span> (sons-in-law), and the <span class="italic font-medium">Aasyo</span> (the maternal family members of the deceased), ensuring that no soul transitions into the next realm without the collective weight of their relatives and friends present.
+                    This final farewell is a comprehensive communal gathering. The entire village unites alongside the immediate <span class=" font-medium">Bhai Khalak</span> (clan), the <span class=" font-medium">Chelibeti</span> (both married and unmarried daughters), the <span class=" font-medium">Jwais</span> (sons-in-law), and the <span class=" font-medium">Aasyo</span> (the maternal family members of the deceased), ensuring that no soul transitions into the next realm without the collective weight of their relatives and friends present.
                 </p>
             </div>
         </div>
@@ -51,7 +51,7 @@
                         <p class="text-gray-600 text-xs leading-relaxed">
                             In Gurung eschatology, the sons-in-law bear the profound logistical and physical responsibility of maintaining the purity of the burial grounds.
                         </p>
-                        <ul class="text-gray-600 text-xs space-y-1 list-none p-0 italic">
+                        <ul class="text-gray-600 text-xs space-y-1 list-none p-0">
                             <li>• Releasing the sacred ashes onto the water</li>
                             <li>• Cleansing the entire crematorium space</li>
                             <li>• Sweeping and removing all debris and litter</li>
