@@ -38,11 +38,3 @@ h2 {
 p {
     @apply text-sm leading-relaxed my-2;
 }
-
-.footer {
-    /* Fixed public directory asset mapping for Vite production compilation */
-    background-image: url('/public/images/old-ladies-rowing-boat.png');
-    background-position: top center;
-    background-repeat: no-repeat;
-    background-size: auto;
-}

@@ -1,4 +1,4 @@
-<footer class="relative bg-primary text-light py-16 mt-20 overflow-hidden footer">
+<footer class="bg-[url('/public/images/old-ladies-rowing-boat.png')] relative bg-primary bg-top bg-no-repeat bg-auto bg-center text-light py-16 mt-20 footer">
     
     <div class="absolute inset-0 z-10 bg-gradient-to-b from-primary via-transparent to-primary"></div>
 
