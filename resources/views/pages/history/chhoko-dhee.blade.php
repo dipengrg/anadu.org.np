@@ -10,7 +10,7 @@
 <!-- Page Header / Intro Banner -->
     <section class="max-w-4xl mx-auto px-6 pt-20 pb-12 text-center">
         <span class="text-[#C5A880] text-xs uppercase tracking-widest font-bold block mb-3">Sacred Legacy</span>
-        <h1 class="text-[#234433] text-3xl md:text-5xl emphasis tracking-tight mb-6">Chhoko Dhee</h1>
+        <h1 class="text-[#234433] text-3xl md:text-5xl tracking-tight mb-6">Chhoko Dhee</h1>
         <p class="text-gray-600 text-base md:text-lg max-w-2xl mx-auto leading-relaxed">
             The ancestral cemetery of the Anadu Gurung community—a sacred shoreline where the physical journey ends and a profound spiritual union with the waters begins.
         </p>
@@ -21,7 +21,7 @@
     <section class="max-w-5xl mx-auto px-6 py-16">
         <div class="grid grid-cols-1 md:grid-cols-12 gap-12 items-start">
             <div class="md:col-span-4 sticky top-6">
-                <h2 class="text-[#234433] text-2xl emphasis tracking-tight">The Final Resting Place</h2>
+                <h2 class="text-[#234433] text-2xl tracking-tight">The Final Resting Place</h2>
                 <span class="text-xs uppercase text-[#C5A880] mt-2 block font-semibold">Geographic & Ritual Foundation</span>
             </div>
             <div class="md:col-span-8 text-gray-600 space-y-6 text-sm md:text-base leading-relaxed">
@@ -65,7 +65,7 @@
                 <!-- Right Column: Simi Kai Details -->
                 <div class="md:col-span-7 text-gray-600 space-y-6 text-sm md:text-base leading-relaxed">
                     <span class="text-[#C5A880] text-xs uppercase tracking-widest font-bold block">Post-Cremation Customs</span>
-                    <h3 class="text-[#234433] text-2xl emphasis mb-4">The Ritual of Simi Kai</h3>
+                    <h3 class="text-[#234433] text-2xl mb-4">The Ritual of Simi Kai</h3>
                     
                     <p>
                         The journey of the departed soul does not conclude at the cremation pyre. On the <strong class="text-gray-900 font-medium">third day following the cremation</strong>, a sacred secondary rite known as <strong class="text-[#234433] font-semibold">Simi Kai</strong> is performed. 
@@ -86,7 +86,7 @@
     <section class="max-w-5xl mx-auto px-6 py-20">
         <div class="grid grid-cols-1 md:grid-cols-12 gap-12 items-start">
             <div class="md:col-span-4 sticky top-6">
-                <h2 class="text-[#234433] text-2xl emphasis tracking-tight">Ancestors of the Water</h2>
+                <h2 class="text-[#234433] text-2xl tracking-tight">Ancestors of the Water</h2>
                 <span class="text-xs uppercase text-[#C5A880] mt-2 block font-semibold">The Spiritual Continuum</span>
             </div>
             <div class="md:col-span-8 text-gray-600 space-y-6 text-sm md:text-base leading-relaxed">

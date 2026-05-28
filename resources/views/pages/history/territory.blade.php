@@ -8,7 +8,7 @@
 <main id="territory-content" class="w-full">
 
     <section class="max-w-4xl mx-auto px-6 pt-20 pb-12 text-center">
-        <p class="text-gray-600 text-base md:text-lg emphasis max-w-2xl mx-auto leading-relaxed mb-8">
+        <p class="text-gray-600 text-base md:text-lg max-w-2xl mx-auto leading-relaxed mb-8">
             Exploring the historical shifts, modern borders, and ancestral lands that define the physical footprint of Anadu.
         </p>
 
@@ -28,7 +28,7 @@
     <section class="max-w-5xl mx-auto px-6 py-16">
         <div class="grid grid-cols-1 md:grid-cols-12 gap-12 items-start">
             <div class="md:col-span-4 sticky top-6">
-                <h2 class="text-[#234433] text-2xl emphasis leading-tight">The Raniban Shift & Relocation</h2>
+                <h2 class="text-[#234433] text-2xl leading-tight">The Raniban Shift & Relocation</h2>
                 <span class="text-xs uppercase text-[#C5A880] mt-2 block font-semibold">Before 2033 BS (1976/77 AD)</span>
                 <div class="max-w-md mx-auto mb-8">
                     <img src="{{ asset('images/faaparswaraa.jpg') }}" alt="Fapar Swaara" class="w-full rounded-sm">
@@ -52,7 +52,7 @@
                 
                 <div class="md:col-span-7 order-2 md:order-1 text-gray-600 space-y-6 text-sm md:text-base leading-relaxed">
                     <span class="text-[#C5A880] text-xs uppercase tracking-widest font-bold block">Current Demarcations</span>
-                    <h2 class="text-[#234433] text-2xl md:text-3xl emphasis mb-4">From the Ridge to the Shoreline</h2>
+                    <h2 class="text-[#234433] text-2xl md:text-3xl mb-4">From the Ridge to the Shoreline</h2>
                     <p>
                         Today, Anadu occupies a neatly defined natural corridor. Our borders stretch horizontally from <strong class="text-gray-900 font-medium">Deurali Khola (Chisapaani)</strong> in the east all the way to <strong class="text-gray-900 font-medium">Khare Khola</strong> on the western edge. Vertically, the community is anchored at the crest by the prominent <strong class="text-gray-900 font-medium">Min Thumki Dada</strong>—the site of the World Peace Stupa—and gently rolls downward until it hits the shores of Fewa Lake.
                     </p>
@@ -86,7 +86,7 @@
                 <p class="text-xs text-gray-500 text-center mt-2">Photo credit: Stock Image, Internet Archive</p>
             </div>
 
-            <h2 class="text-[#234433] text-2xl md:text-3xl emphasis mb-6">The Rhythms of Jethobudho Harvesting</h2>
+            <h2 class="text-[#234433] text-2xl md:text-3xl mb-6">The Rhythms of Jethobudho Harvesting</h2>
             
             <div class="text-gray-600 space-y-6 text-sm md:text-base leading-relaxed max-w-2xl mx-auto">
                 <p>

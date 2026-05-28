@@ -11,7 +11,7 @@
     <!-- Page Header / Intro Banner -->
     <section class="max-w-4xl mx-auto px-6 pt-20 pb-12 text-center">
         <span class="text-[#C5A880] text-xs uppercase tracking-widest font-bold block mb-3">Community Hub</span>
-        <h1 class="text-[#234433] text-3xl md:text-5xl emphasis tracking-tight mb-6">Anadu Community Center</h1>
+        <h1 class="text-[#234433] text-3xl md:text-5xl tracking-tight mb-6">Anadu Community Center</h1>
         <p class="text-gray-600 text-base md:text-lg max-w-2xl mx-auto leading-relaxed">
             The beating heart of Sisneri Bagar—a sacred space of gathering, remembrance, and communal unity bridging ancient traditions with modern generations.
         </p>
@@ -22,7 +22,7 @@
     <section class="max-w-5xl mx-auto px-6 py-16">
         <div class="grid grid-cols-1 md:grid-cols-12 gap-12 items-start">
             <div class="md:col-span-4 sticky top-6">
-                <h2 class="text-[#234433] text-2xl emphasis tracking-tight">The Legacy of Aapko Chautara</h2>
+                <h2 class="text-[#234433] text-2xl tracking-tight">The Legacy of Aapko Chautara</h2>
                 <span class="text-xs uppercase text-[#C5A880] mt-2 block font-semibold">Ancient Gathering Grounds</span>
             </div>
             <div class="md:col-span-8 text-gray-600 space-y-6 text-sm md:text-base leading-relaxed">
@@ -69,7 +69,7 @@
                 <!-- Right Column: Current Description with Construction Details -->
                 <div class="md:col-span-7 text-gray-600 space-y-6 text-sm md:text-base leading-relaxed">
                     <span class="text-[#C5A880] text-xs uppercase tracking-widest font-bold block">Evolution of the Space</span>
-                    <h3 class="text-[#234433] text-2xl emphasis mb-4">The Pye Karya Pavilion</h3>
+                    <h3 class="text-[#234433] text-2xl mb-4">The Pye Karya Pavilion</h3>
                     
                     <p>
                         In <strong class="text-gray-900 font-medium">2075 BS</strong>, under the proactive initiation of the <strong class="text-gray-900 font-medium">Taalpaari Anadu Gurung Samaj</strong>, formal plans were drafted to build a comprehensive community center infrastructure. The primary catalyst for this massive structure was the collective need to gracefully host <span class="italic font-medium">Pye Karya</span>, widely known as <strong class="text-gray-900 font-semibold">Arghau</strong>—the essential, sacred after-death ceremony of the deceased in Gurung culture.
@@ -90,7 +90,7 @@
     <section class="max-w-5xl mx-auto px-6 py-20">
         <div class="grid grid-cols-1 md:grid-cols-12 gap-12 items-start">
             <div class="md:col-span-4 sticky top-6">
-                <h2 class="text-[#234433] text-2xl emphasis tracking-tight">Sacred Architecture</h2>
+                <h2 class="text-[#234433] text-2xl tracking-tight">Sacred Architecture</h2>
                 <span class="text-xs uppercase text-[#C5A880] mt-2 block font-semibold">The Plah Dhee Construction</span>
             </div>
             <div class="md:col-span-8 text-gray-600 space-y-6 text-sm md:text-base leading-relaxed">

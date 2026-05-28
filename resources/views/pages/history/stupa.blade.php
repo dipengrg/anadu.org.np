@@ -9,7 +9,7 @@
 
     <!-- Page Header / Intro Banner -->
     <section class="max-w-4xl mx-auto px-6 pt-20 pb-12 text-center">
-        <h1 class="text-[#234433] text-3xl md:text-5xl emphasis tracking-tight mb-6">The Shanti Stupa of Pokhara</h1>
+        <h1 class="text-[#234433] text-3xl md:text-5xl tracking-tight mb-6">The Shanti Stupa of Pokhara</h1>
         <p class="text-gray-600 text-base md:text-lg max-w-2xl mx-auto leading-relaxed">
             The history and profound struggle behind the World Peace Pagoda on Anadu Hill—a narrative of spiritual devotion, political friction, and relentless community resilience.
         </p>
@@ -23,7 +23,7 @@
     <section class="max-w-5xl mx-auto px-6 py-16">
         <div class="grid grid-cols-1 md:grid-cols-12 gap-12 items-start">
             <div class="md:col-span-4 sticky top-6">
-                <h2 class="text-[#234433] text-2xl emphasis tracking-tight">The Divine Vision & Catalyst</h2>
+                <h2 class="text-[#234433] text-2xl tracking-tight">The Divine Vision & Catalyst</h2>
                 <span class="text-xs uppercase text-[#C5A880] mt-2 block font-semibold">Origin & Mane Khark Consecration</span>
             </div>
             <div class="md:col-span-8 text-gray-600 space-y-6 text-sm md:text-base leading-relaxed">
@@ -62,7 +62,7 @@
                 <!-- Right Column: The Crackdown -->
                 <div class="md:col-span-7 text-gray-600 space-y-6 text-sm md:text-base leading-relaxed">
                     <span class="text-[#C5A880] text-xs uppercase tracking-widest font-bold block">State Intervention</span>
-                    <h3 class="text-[#234433] text-2xl emphasis mb-4">The Demolition of 2031 B.S.</h3>
+                    <h3 class="text-[#234433] text-2xl mb-4">The Demolition of 2031 B.S.</h3>
                     <p>
                         The construction quickly scaled into a massive local public movement, drawing hundreds of daily volunteers up the ridges of Minthumki. However, when the main pagoda structure reached a height of roughly 35 to 45 feet, it triggered hostile political intervention from the local administration acting under the Pokhara Town Planning Committee (<span class="italic">Nagar Yojana</span>). 
                     </p>
@@ -82,7 +82,7 @@
     <section class="max-w-5xl mx-auto px-6 py-20">
         <div class="text-center max-w-2xl mx-auto mb-12">
             <span class="text-xs uppercase text-[#C5A880] tracking-widest font-semibold block mb-2">Archival Verification</span>
-            <h2 class="text-[#234433] text-2xl md:text-3xl emphasis">The Bureaucratic Paper Trail</h2>
+            <h2 class="text-[#234433] text-2xl md:text-3xl">The Bureaucratic Paper Trail</h2>
             <p class="text-gray-500 text-xs mt-2">Official records preserved within regional memoirs mapping out the legal resistance against state overreach.</p>
         </div>
         
@@ -134,7 +134,7 @@
                 <!-- Left Column: The 18-Year Rebirth Trail -->
                 <div class="md:col-span-7 text-gray-600 space-y-6 text-sm md:text-base leading-relaxed">
                     <span class="text-[#C5A880] text-xs uppercase tracking-widest font-bold block">The Long Return</span>
-                    <h2 class="text-[#234433] text-2xl md:text-3xl emphasis">Resilience &amp; Modern Consecration</h2>
+                    <h2 class="text-[#234433] text-2xl md:text-3xl">Resilience &amp; Modern Consecration</h2>
                     <p>
                         Despite the devastating setbacks of 2031 B.S., the spiritual conviction behind the pagoda never wavered. Min Bahadur Gurung famously noted in his logs that he remained prepared to sacrifice his physical form against any structural or political barrier to realize a sanctuary built for the collective welfare of mankind. 
                     </p>

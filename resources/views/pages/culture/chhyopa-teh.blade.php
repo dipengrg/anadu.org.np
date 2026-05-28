@@ -11,7 +11,7 @@
     <!-- Page Header / Intro Banner -->
     <section class="max-w-4xl mx-auto px-6 pt-20 pb-12 text-center">
         <span class="text-[#C5A880] text-xs uppercase tracking-widest font-bold block mb-3">Culture &amp; Identity</span>
-        <h1 class="text-[#234433] text-3xl md:text-5xl emphasis tracking-tight mb-6">छ्योप त्हें (Chhyopa Teh)</h1>
+        <h1 class="text-[#234433] text-3xl md:text-5xl  tracking-tight mb-6">छ्योप त्हें (Chhyopa Teh)</h1>
         <p class="text-gray-600 text-base md:text-lg max-w-2xl mx-auto leading-relaxed font-serif italic">
             "पितृहरूको सम्मान, कुलको सुरक्षा र ल्होसारको पूर्वसन्ध्या"
         </p>
@@ -22,7 +22,7 @@
     <section class="max-w-5xl mx-auto px-6 py-16">
         <div class="grid grid-cols-1 md:grid-cols-12 gap-12 items-start">
             <div class="md:col-span-4 sticky top-6">
-                <h2 class="text-[#234433] text-2xl emphasis tracking-tight">The Eve of Renewal</h2>
+                <h2 class="text-[#234433] text-2xl  tracking-tight">The Eve of Renewal</h2>
                 <span class="text-xs uppercase text-[#C5A880] mt-2 block font-semibold">Honor &amp; Protection</span>
             </div>
             <div class="md:col-span-8 text-gray-600 space-y-6 text-sm md:text-base leading-relaxed">
@@ -73,7 +73,7 @@
                 <!-- Right Column: Blessings for the Village -->
                 <div class="md:col-span-7 text-gray-600 space-y-6 text-sm md:text-base leading-relaxed">
                     <span class="text-[#C5A880] text-xs uppercase tracking-widest font-bold block">Sacred Intentions</span>
-                    <h3 class="text-[#234433] text-2xl emphasis mb-4">Prayers for Peace, Joy, and Prosperity</h3>
+                    <h3 class="text-[#234433] text-2xl  mb-4">Prayers for Peace, Joy, and Prosperity</h3>
                     
                     <p>
                         Observed faithfully <strong class="text-gray-900 font-medium">once every year on the night of Poush 14th</strong> (<span class="italic font-medium">प्रत्येक वर्ष पुस १४ गते राति</span>), this event serves as the grand prelude to the Tamu New Year. 

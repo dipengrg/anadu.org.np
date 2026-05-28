@@ -8,33 +8,29 @@
     --color-anadu-dark: #3E424B;
     --color-anadu-lake: #4A6D7C;
 
-    /* Typography */
-    --font-heading: "Arya", serif;
-    --font-body: "Quicksand", sans-serif;
-    --emphasis: "Cinzel", serif;
+    /* Typography System (Pairing Set 1 & Set 2) */
+    --font-heading: "Cinzel", "Arya", serif;
+    --font-body: "Quicksand", "Baloo 2", sans-serif;
 }
 
-/* Mobile-First Global Defaults */
-@layer base {
-    body {
-        @apply bg-anadu-base text-anadu-dark font-body antialiased;
-    }
-    
-    h1, h2, h3, h4, h5, h6 {
-        @apply font-heading text-anadu-forest;
-    }
-
-    .footer-heritage-bg {
-        background-image: url('/public/images/old-ladies-rowing-boat.png');
-        background-position: top center;
-        background-repeat: no-repeat;
-        background-size: auto;
-    }
+/* Global HTML Base Rules */
+body {
+    background-color: var(--color-anadu-base);
+    color: var(--color-anadu-dark);
+    font-family: var(--font-body);
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
 }
 
-/* Utility Classes */
-@layer components {
-    .emphasis {
-        font-family: var(--emphasis);
-    }
+h1, h2, h3, h4, h5, h6 {
+    font-family: var(--font-heading);
+}
+
+/* Custom Heritage Components & Backgrounds */
+.footer-heritage-bg {
+    /* Fixed public directory asset mapping for Vite production compilation */
+    background-image: url('/public/images/old-ladies-rowing-boat.png');
+    background-position: top center;
+    background-repeat: no-repeat;
+    background-size: auto;
 }

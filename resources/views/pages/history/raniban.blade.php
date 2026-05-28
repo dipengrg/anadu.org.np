@@ -31,7 +31,7 @@
         <div class="grid grid-cols-1 md:grid-cols-12 gap-12 items-start">
             
             <div class="md:col-span-4 sticky top-6">
-                <h2 class="text-[#234433] text-2xl emphasis leading-tight">Indigenous Stewardship &amp; Sustenance</h2>
+                <h2 class="text-[#234433] text-2xl leading-tight">Indigenous Stewardship &amp; Sustenance</h2>
                 <span class="text-xs uppercase text-[#C5A880] mt-2 block font-semibold">Generational Roots</span>
             </div>
 
@@ -54,7 +54,7 @@
                 
                 <div class="md:col-span-7 order-2 md:order-1 text-gray-600 space-y-6 text-sm md:text-base leading-relaxed">
                     <span class="text-[#C5A880] text-xs uppercase tracking-widest font-bold block mb-1">The Era of Transition</span>
-                    <h2 class="text-[#234433] text-2xl md:text-3xl emphasis mb-4">State Acquisition &amp; Sovereign Memory</h2>
+                    <h2 class="text-[#234433] text-2xl md:text-3xl mb-4">State Acquisition &amp; Sovereign Memory</h2>
                     <p>
                         In the wake of shifting national administrative policies and land modernization efforts, the territory of the Queen Forest was formally acquired by state entities. This transition structurally altered the legal boundaries of our ancestral lands, embedding the forest into a wider public reserve network.
                     </p>

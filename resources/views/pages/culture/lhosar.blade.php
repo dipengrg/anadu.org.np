@@ -11,7 +11,7 @@
     <!-- Page Header / Intro Banner -->
     <section class="max-w-4xl mx-auto px-6 pt-20 pb-12 text-center">
         <span class="text-[#C5A880] text-xs uppercase tracking-widest font-bold block mb-3">Culture &amp; Identity</span>
-        <h1 class="text-[#234433] text-3xl md:text-5xl emphasis tracking-tight mb-6">Tamu Lhosar</h1>
+        <h1 class="text-[#234433] text-3xl md:text-5xl  tracking-tight mb-6">Tamu Lhosar</h1>
         <p class="text-gray-600 text-base md:text-lg max-w-2xl mx-auto leading-relaxed font-serif italic">
             "A momentous festival deeply bound to our community's authentic, historical, cultural, and social identity."
         </p>
@@ -22,7 +22,7 @@
     <section class="max-w-5xl mx-auto px-6 py-16">
         <div class="grid grid-cols-1 md:grid-cols-12 gap-12 items-start">
             <div class="md:col-span-4 sticky top-6">
-                <h2 class="text-[#234433] text-2xl emphasis tracking-tight">The Turn of the Year</h2>
+                <h2 class="text-[#234433] text-2xl  tracking-tight">The Turn of the Year</h2>
                 <span class="text-xs uppercase text-[#C5A880] mt-2 block font-semibold">Linguistic &amp; Astrological Origin</span>
             </div>
             <div class="md:col-span-8 text-gray-600 space-y-6 text-sm md:text-base leading-relaxed">
@@ -62,7 +62,7 @@
     <section class="bg-white py-20 border-y border-gray-100">
         <div class="max-w-5xl mx-auto px-6">
             <span class="text-[#C5A880] text-xs uppercase tracking-widest font-bold block mb-2 text-center md:text-left">Local Heritage</span>
-            <h2 class="text-[#234433] text-2xl md:text-3xl emphasis mb-12 text-center md:text-left">Observance at Taalpaari Anadu</h2>
+            <h2 class="text-[#234433] text-2xl md:text-3xl  mb-12 text-center md:text-left">Observance at Taalpaari Anadu</h2>
             
             <div class="grid grid-cols-1 md:grid-cols-12 gap-12 items-start">
                 <!-- Left Side: Local Timeline & Organization -->
@@ -106,7 +106,7 @@
     <section class="max-w-5xl mx-auto px-6 py-20">
         <div class="grid grid-cols-1 md:grid-cols-12 gap-12 items-start">
             <div class="md:col-span-4 sticky top-6">
-                <h2 class="text-[#234433] text-2xl emphasis tracking-tight">The Grand Assembly</h2>
+                <h2 class="text-[#234433] text-2xl  tracking-tight">The Grand Assembly</h2>
                 <span class="text-xs uppercase text-[#C5A880] mt-2 block font-semibold">Syo Kai, Honor, &amp; Objectives</span>
             </div>
             <div class="md:col-span-8 text-gray-600 space-y-6 text-sm md:text-base leading-relaxed">

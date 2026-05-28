@@ -11,7 +11,7 @@
     <section class="max-w-5xl mx-auto px-6 py-16">
         <div class="grid grid-cols-1 md:grid-cols-12 gap-12 items-start">
             <div class="md:col-span-4 sticky top-6">
-                <h2 class="text-[#234433] text-2xl emphasis leading-tight">From Kohlasothar to the Western Hills</h2>
+                <h2 class="text-[#234433] text-2xl leading-tight">From Kohlasothar to the Western Hills</h2>
                 <span class="text-xs uppercase text-[#C5A880] mt-2 block font-semibold">~500 CE - 14th Century</span>
             </div>
             <div class="md:col-span-8 text-gray-600 space-y-6 text-sm md:text-base leading-relaxed">
@@ -31,7 +31,7 @@
             <div class="grid grid-cols-1 md:grid-cols-12 gap-12 items-center">
                 
                 <div class="md:col-span-7 order-2 md:order-1 text-gray-600 space-y-6 text-sm md:text-base leading-relaxed">
-                    <h2 class="text-[#234433] text-2xl md:text-3xl emphasis mb-4">The Primordial Village by the Water</h2>
+                    <h2 class="text-[#234433] text-2xl md:text-3xl mb-4">The Primordial Village by the Water</h2>
                     <p>
                         As the migration trickled downward, an ancient civilization gradually formed near the lush, southern shores of what was originally known as <strong class="text-gray-900 font-medium">Phyoba Lake</strong> (now Fewa Lake). 
                     </p>
@@ -64,7 +64,7 @@
 
             <div class="md:col-span-7 text-gray-600 text-sm md:text-base space-y-6 leading-relaxed">
                 <span class="text-[#C5A880] text-xs uppercase tracking-widest font-bold block mb-1">Evolution of Name</span>
-                <h2 class="text-[#234433] text-2xl md:text-3xl emphasis mb-4">"Anadi" to "Anadu"</h2>
+                <h2 class="text-[#234433] text-2xl md:text-3xl mb-4">"Anadi" to "Anadu"</h2>
                 <p>
                     Over time, the settlement encountered shifting linguistic influences. In the Khas language, the village came to be known as <span class="text-[#234433] font-semibold italic">Anadi</span>—a deeply philosophical term translating to <strong class="text-gray-900 font-medium">Beginningless, Eternal, Primordial, and Ageless</strong>. 
                 </p>
@@ -81,7 +81,7 @@
         <div class="grid grid-cols-1 md:grid-cols-12 gap-12 items-start">
             
             <div class="md:col-span-4 sticky top-6">
-                <h2 class="text-[#234433] text-2xl emphasis leading-tight">The Known Generations</h2>
+                <h2 class="text-[#234433] text-2xl leading-tight">The Known Generations</h2>
                 <span class="text-xs uppercase text-[#C5A880] mt-2 block font-semibold">Oral Ancestry &amp; Clan Records</span>
             </div>
 

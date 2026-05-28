@@ -8,7 +8,7 @@
 <main id="fewa-lake-content" class="w-full">
 
     <section class="max-w-4xl mx-auto px-6 pt-20 pb-12 text-center">
-        <h1 class="text-[#234433] text-3xl md:text-5xl emphasis tracking-tight mb-6">The Phyoba Lake</h1>
+        <h1 class="text-[#234433] text-3xl md:text-5xl tracking-tight mb-6">The Phyoba Lake</h1>
         <p class="text-gray-600 text-base md:text-lg max-w-2xl mx-auto leading-relaxed">
             The geological, spiritual, and cultural heartbeat of our community, spanning back nearly a thousand years.
         </p>
@@ -23,7 +23,7 @@
 
     <section class="max-w-4xl mx-auto px-6 py-16 text-center">
         <div class="text-gray-600 space-y-4">
-            <h2 class="text-[#234433] text-2xl md:text-3xl emphasis leading-tight">Born from the Peaks</h2>
+            <h2 class="text-[#234433] text-2xl md:text-3xl leading-tight">Born from the Peaks</h2>
             <p class="text-sm md:text-base leading-relaxed max-w-2xl mx-auto">
                 Sitting gracefully at an altitude of 742 meters and covering an area of approximately 5.7 square kilometers, Fewa Lake is a semi-natural, freshwater marvel. 
             </p>
@@ -35,7 +35,7 @@
 
     <section class="bg-white py-20 border-y border-gray-100">
         <div class="max-w-4xl mx-auto px-6 text-center">
-            <h2 class="text-[#234433] text-3xl emphasis mb-6">"Fyoba" — The Act of Revering Nature</h2>
+            <h2 class="text-[#234433] text-3xl mb-6">"Fyoba" — The Act of Revering Nature</h2>
 
             <div class="w-full mb-8">
                 <img src="{{ asset('images/phyoba-lake.jpg') }}" alt="Fyoba Taal" class="w-full rounded-sm">
@@ -56,7 +56,7 @@
     <section class="max-w-5xl mx-auto px-6 py-16">
         <div class="grid grid-cols-1 md:grid-cols-12 gap-12 items-start">
             <div class="md:col-span-4 sticky top-6">
-                <h2 class="text-[#234433] text-2xl emphasis leading-tight">The Fewaali Pahchyu</h2>
+                <h2 class="text-[#234433] text-2xl leading-tight">The Fewaali Pahchyu</h2>
                 <div class="md:col-span-5 order-1 md:order-2">
                     <div class="aspect-[4/3] w-full rounded-sm overflow-hidden">
                         <img src="{{ asset('images/pahchyu-pariwar.jpg') }}" alt="The Pahchyu Clan." class="w-full h-full object-cover">
@@ -89,7 +89,7 @@
                 </div>
 
                 <div class="md:col-span-7 text-gray-600 space-y-6 text-sm md:text-base leading-relaxed">
-                    <h2 class="text-[#234433] text-2xl md:text-3xl emphasis">The Island of Tal Barahi</h2>
+                    <h2 class="text-[#234433] text-2xl md:text-3xl">The Island of Tal Barahi</h2>
                     <p>
                         Floating prominently amidst the open currents is the famous island that holds the <strong class="text-gray-900 font-medium">Taal Barahi Mandir</strong>, a sacred space deeply incorporated and protected by the Brahmin community. 
                     </p>

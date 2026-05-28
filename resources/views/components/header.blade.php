@@ -10,13 +10,13 @@
 
         <div class="flex flex-col items-center">
             <a href="{{ url('/') }}" class="flex flex-col items-center group transition-transform hover:scale-105">
-                <span class="font-heading font-normal text-anadu-gold text-lg sm:text-2xl md:text-3xl leading-none">
+                <span class="font-heading text-anadu-gold text-lg sm:text-2xl md:text-3xl leading-none">
                     अनदुँ
                 </span>
                 <span class="font-heading font-bold text-anadu-forest text-3xl sm:text-4xl md:text-6xl leading-tight -mt-1 uppercase">
                     तालपारी
                 </span>
-                <span class="mt-1 sm:mt-2 text-[10px] sm:text-xs font-medium text-anadu-gold emphasis border-t border-anadu-gold/20 pt-1 tracking-wider text-center max-w-xs">
+                <span class="mt-1 sm:mt-2 text-[10px] sm:text-xs font-medium text-anadu-gold  border-t border-anadu-gold/20 pt-1 tracking-wider text-center max-w-xs">
                     @if($locale == 'en')
                         Historical, Cultural & Natural Heritage
                     @else

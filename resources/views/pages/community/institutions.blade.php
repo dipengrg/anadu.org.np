@@ -12,7 +12,7 @@
         <!-- Header Section -->
         <div class="mb-12 md:mb-16 max-w-3xl">
             <span class="text-xs font-semibold uppercase tracking-widest text-gray-400 block mb-2">Self-Governance &amp; Solidarity</span>
-            <h1 class="text-3xl md:text-4xl emphasis tracking-tight mb-4">Community Institutions</h1>
+            <h1 class="text-3xl md:text-4xl  tracking-tight mb-4">Community Institutions</h1>
             <p class="text-gray-600 text-sm md:text-base leading-relaxed">
                 The collective life of Taalpaari Anadu is structured and protected by three grassroots institutions. These organizations drive our development, defend our cultural heritage, and strengthen our social fabric.
             </p>
@@ -25,7 +25,7 @@
             <div class="border-t border-gray-200 pt-6 grid grid-cols-1 md:grid-cols-3 gap-4 md:gap-8">
                 <div>
                     <span class="text-xs text-gray-400 block mb-1">01 / CIVIC &amp; DEVELOPMENT</span>
-                    <h3 class="emphasis text-lg text-gray-900">Anadu Tol Bikash Sanstha</h3>
+                    <h3 class=" text-lg text-gray-900">Anadu Tol Bikash Sanstha</h3>
                 </div>
                 <div class="md:col-span-2">
                     <p class="text-gray-600 text-sm md:text-base leading-relaxed">
@@ -38,7 +38,7 @@
             <div class="border-t border-gray-200 pt-6 grid grid-cols-1 md:grid-cols-3 gap-4 md:gap-8">
                 <div>
                     <span class="text-xs text-gray-400 block mb-1">02 / HERITAGE &amp; LINEAGE</span>
-                    <h3 class="emphasis text-lg text-gray-900">Taalpaari Anadu Gurung Samaaj</h3>
+                    <h3 class=" text-lg text-gray-900">Taalpaari Anadu Gurung Samaaj</h3>
                 </div>
                 <div class="md:col-span-2">
                     <p class="text-gray-600 text-sm md:text-base leading-relaxed">
@@ -51,7 +51,7 @@
             <div class="border-t border-gray-200 pt-6 grid grid-cols-1 md:grid-cols-3 gap-4 md:gap-8">
                 <div>
                     <span class="text-xs text-gray-400 block mb-1">03 / SOCIAL WELFARE</span>
-                    <h3 class="emphasis text-lg text-gray-900">Anadu Aama Samuha</h3>
+                    <h3 class=" text-lg text-gray-900">Anadu Aama Samuha</h3>
                 </div>
                 <div class="md:col-span-2">
                     <p class="text-gray-600 text-sm md:text-base leading-relaxed">

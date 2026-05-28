@@ -11,7 +11,7 @@
     <!-- Page Header / Intro Banner -->
     <section class="max-w-4xl mx-auto px-6 pt-20 pb-12 text-center">
         <span class="text-[#C5A880] text-xs uppercase tracking-widest font-bold block mb-3">Culture &amp; Identity</span>
-        <h1 class="text-[#234433] text-3xl md:text-5xl emphasis tracking-tight mb-6">Pye Karya (Arghau)</h1>
+        <h1 class="text-[#234433] text-3xl md:text-5xl tracking-tight mb-6">Pye Karya (Arghau)</h1>
         <p class="text-gray-600 text-base md:text-lg max-w-2xl mx-auto leading-relaxed font-serif italic">
             "A sacred 3-night, 4-day ritual guiding the soul from the earthly realm to Simi Naasaa, the land of the ancestors."
         </p>
@@ -39,7 +39,7 @@
         <div class="max-w-5xl mx-auto px-6">
             <div class="text-center max-w-2xl mx-auto mb-16">
                 <span class="text-xs uppercase text-[#C5A880] tracking-widest font-bold block mb-2">The Ritual Procession</span>
-                <h3 class="text-[#234433] text-2xl md:text-3xl emphasis">Day-by-Day Chronology</h3>
+                <h3 class="text-[#234433] text-2xl md:text-3xl">Day-by-Day Chronology</h3>
                 <p class="text-gray-500 text-xs mt-2">A breakdown of the sacred milestones executed across the four days of Arghau.</p>
             </div>
 

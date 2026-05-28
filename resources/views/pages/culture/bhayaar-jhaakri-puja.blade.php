@@ -11,7 +11,7 @@
     <!-- Page Header / Intro Banner -->
     <section class="max-w-4xl mx-auto px-6 pt-20 pb-12 text-center">
         <span class="text-[#C5A880] text-xs uppercase tracking-widest font-bold block mb-3">Culture &amp; Identity</span>
-        <h1 class="text-[#234433] text-3xl md:text-5xl emphasis tracking-tight mb-6">भयार झाँक्री पूजा (Bhayar Jhaakri Puja)</h1>
+        <h1 class="text-[#234433] text-3xl md:text-5xl  tracking-tight mb-6">भयार झाँक्री पूजा (Bhayar Jhaakri Puja)</h1>
         <p class="text-gray-600 text-base md:text-lg max-w-2xl mx-auto leading-relaxed font-serif italic">
             "प्रकृति र मानिसबीचको सम्बन्ध र गाउँको रक्षा"
         </p>
@@ -22,7 +22,7 @@
     <section class="max-w-5xl mx-auto px-6 py-16">
         <div class="grid grid-cols-1 md:grid-cols-12 gap-12 items-start">
             <div class="md:col-span-4 sticky top-6">
-                <h2 class="text-[#234433] text-2xl emphasis tracking-tight">The Spiritual Bond</h2>
+                <h2 class="text-[#234433] text-2xl  tracking-tight">The Spiritual Bond</h2>
                 <span class="text-xs uppercase text-[#C5A880] mt-2 block font-semibold">Humanity &amp; Nature Alliance</span>
             </div>
             <div class="md:col-span-8 text-gray-600 space-y-6 text-sm md:text-base leading-relaxed">
@@ -73,7 +73,7 @@
                 <!-- Right Column: Seasonal Transitions -->
                 <div class="md:col-span-7 text-gray-600 space-y-6 text-sm md:text-base leading-relaxed">
                     <span class="text-[#C5A880] text-xs uppercase tracking-widest font-bold block">Astrological &amp; Cultural Alignment</span>
-                    <h3 class="text-[#234433] text-2xl emphasis mb-4">The Udhauli Convergence</h3>
+                    <h3 class="text-[#234433] text-2xl  mb-4">The Udhauli Convergence</h3>
                     
                     <p>
                         The <strong class="text-gray-900 font-medium">Bhayar Jhaakri Puja</strong> is meticulously organized exactly <strong class="text-gray-900 font-medium">twice every single year</strong>, strictly aligning with the powerful energy of the full moon (<span class="italic font-medium">प्रत्येक वर्ष जेठ र मंसिरको पूर्णिमा</span>). 

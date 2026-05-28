@@ -11,7 +11,7 @@
     <!-- Page Header / Intro Banner -->
     <section class="max-w-4xl mx-auto px-6 pt-20 pb-12 text-center">
         <span class="text-[#C5A880] text-xs uppercase tracking-widest font-bold block mb-3">Culture &amp; Identity</span>
-        <h1 class="text-[#234433] text-3xl md:text-5xl emphasis tracking-tight mb-6">Heritage of the Tamu</h1>
+        <h1 class="text-[#234433] text-3xl md:text-5xl  tracking-tight mb-6">Heritage of the Tamu</h1>
         <p class="text-gray-600 text-base md:text-lg max-w-2xl mx-auto leading-relaxed">
             Exploring the foundational pillars of Gurung identity through the enduring legacy of our language, sacred ancestral traditions, and distinct traditional garments.
         </p>
@@ -22,7 +22,7 @@
     <section class="max-w-5xl mx-auto px-6 py-16">
         <div class="grid grid-cols-1 md:grid-cols-12 gap-12 items-start">
             <div class="md:col-span-4 sticky top-6">
-                <h2 class="text-[#234433] text-2xl emphasis tracking-tight">Language &amp; Roots</h2>
+                <h2 class="text-[#234433] text-2xl  tracking-tight">Language &amp; Roots</h2>
                 <span class="text-xs uppercase text-[#C5A880] mt-2 block font-semibold">Tamu Kyi &amp; Migration</span>
             </div>
             <div class="md:col-span-8 text-gray-600 space-y-6 text-sm md:text-base leading-relaxed">
@@ -46,7 +46,7 @@
     <section class="bg-white py-20 border-y border-gray-100">
         <div class="max-w-5xl mx-auto px-6">
             <span class="text-[#C5A880] text-xs uppercase tracking-widest font-bold block mb-2 text-center md:text-left">Material Culture</span>
-            <h2 class="text-[#234433] text-2xl md:text-3xl emphasis mb-12 text-center md:text-left">Traditional Costume &amp; Ornamentation</h2>
+            <h2 class="text-[#234433] text-2xl md:text-3xl  mb-12 text-center md:text-left">Traditional Costume &amp; Ornamentation</h2>
             
             <div class="grid grid-cols-1 md:grid-cols-12 gap-12 items-start">
                 <!-- Left Column: Women's Attire -->
@@ -95,7 +95,7 @@
     <section class="max-w-5xl mx-auto px-6 py-20">
         <div class="grid grid-cols-1 md:grid-cols-12 gap-12 items-start">
             <div class="md:col-span-4 sticky top-6">
-                <h2 class="text-[#234433] text-2xl emphasis tracking-tight">Cosmology &amp; Belief</h2>
+                <h2 class="text-[#234433] text-2xl  tracking-tight">Cosmology &amp; Belief</h2>
                 <span class="text-xs uppercase text-[#C5A880] mt-2 block font-semibold">The Sacred Natural World</span>
             </div>
             <div class="md:col-span-8 text-gray-600 space-y-6 text-sm md:text-base leading-relaxed">

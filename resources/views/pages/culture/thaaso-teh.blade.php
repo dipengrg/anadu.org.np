@@ -11,7 +11,7 @@
     <!-- Page Header / Intro Banner -->
     <section class="max-w-4xl mx-auto px-6 pt-20 pb-12 text-center">
         <span class="text-[#C5A880] text-xs uppercase tracking-widest font-bold block mb-3">Culture &amp; Identity</span>
-        <h1 class="text-[#234433] text-3xl md:text-5xl emphasis tracking-tight mb-6">थासो त्हें (Thaaso Teh)</h1>
+        <h1 class="text-[#234433] text-3xl md:text-5xl tracking-tight mb-6">थासो त्हें (Thaaso Teh)</h1>
         <p class="text-gray-600 text-base md:text-lg max-w-2xl mx-auto leading-relaxed font-serif italic">
             "सामाजिक एकता र पुर्ख्यौली विरासतको प्रतीक"
         </p>
@@ -22,7 +22,7 @@
     <section class="max-w-5xl mx-auto px-6 py-16">
         <div class="grid grid-cols-1 md:grid-cols-12 gap-12 items-start">
             <div class="md:col-span-4 sticky top-6">
-                <h2 class="text-[#234433] text-2xl emphasis tracking-tight">Veneration of Lineage</h2>
+                <h2 class="text-[#234433] text-2xl tracking-tight">Veneration of Lineage</h2>
                 <span class="text-xs uppercase text-[#C5A880] mt-2 block font-semibold">Ancestral Legacy &amp; Unity</span>
             </div>
             <div class="md:col-span-8 text-gray-600 space-y-6 text-sm md:text-base leading-relaxed">
@@ -80,7 +80,7 @@
                 <!-- Right Column: Ritual Execution -->
                 <div class="md:col-span-7 text-gray-600 space-y-6 text-sm md:text-base leading-relaxed">
                     <span class="text-[#C5A880] text-xs uppercase tracking-widest font-bold block">Ritual Practices</span>
-                    <h3 class="text-[#234433] text-2xl emphasis mb-4">The Communal Gathering</h3>
+                    <h3 class="text-[#234433] text-2xl mb-4">The Communal Gathering</h3>
                     
                     <p>
                         <strong class="text-gray-900 font-medium">Thaaso Teh</strong> is traditionally observed exactly <strong class="text-gray-900 font-medium">three times a year</strong>. The choice of these specific days carries deep seasonal and astrological meaning, aligning perfectly with periods of transitions, new harvests, and cosmic shifts in the Tamu calendar.

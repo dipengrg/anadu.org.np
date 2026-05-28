@@ -9,7 +9,7 @@
 
     <!-- Page Header / Intro Banner -->
     <section class="max-w-4xl mx-auto px-6 pt-20 pb-12 text-center">
-        <h1 class="text-[#234433] text-3xl md:text-5xl emphasis tracking-tight mb-6">Anadu Primary School</h1>
+        <h1 class="text-[#234433] text-3xl md:text-5xl tracking-tight mb-6">Anadu Primary School</h1>
         <p class="text-gray-600 text-base md:text-lg max-w-2xl mx-auto leading-relaxed">
             The cradle of modern literacy in our community, founded upon selfless leadership, historical advocacy, and ancestral land.
         </p>
@@ -20,7 +20,7 @@
     <section class="max-w-5xl mx-auto px-6 py-16">
         <div class="grid grid-cols-1 md:grid-cols-12 gap-12 items-start">
             <div class="md:col-span-4 sticky top-6">
-                <h2 class="text-[#234433] text-2xl emphasis tracking-tight">The Era Before Modern Schooling</h2>
+                <h2 class="text-[#234433] text-2xl tracking-tight">The Era Before Modern Schooling</h2>
                 <span class="text-xs uppercase text-[#C5A880] mt-2 block font-semibold">Mid-20th Century Context</span>
             </div>
             <div class="md:col-span-8 text-gray-600 space-y-6 text-sm md:text-base leading-relaxed">
@@ -60,7 +60,7 @@
                 <!-- Right Column: Current Description with Post-War Reconstruction Fund Details -->
                 <div class="md:col-span-7 text-gray-600 space-y-6 text-sm md:text-base leading-relaxed">
                     <span class="text-[#C5A880] text-xs uppercase tracking-widest font-bold block">Historical Records</span>
-                    <h3 class="text-[#234433] text-2xl emphasis mb-4">The Vision of Min Bahadur Gurung</h3>
+                    <h3 class="text-[#234433] text-2xl mb-4">The Vision of Min Bahadur Gurung</h3>
                     
                     <p>
                         The introduction of institutional schooling to our village is heavily credited to the extensive social reforms spearheaded by Former Assistant Defense Minister Min Bahadur Gurung. In his published memoirs, he chronicles the exhausting journey to unlock literacy for the region. 
@@ -86,7 +86,7 @@
     <section class="max-w-5xl mx-auto px-6 py-20">
         <div class="grid grid-cols-1 md:grid-cols-12 gap-12 items-start">
             <div class="md:col-span-4 sticky top-6">
-                <h2 class="text-[#234433] text-2xl emphasis tracking-tight">The Manikharka Beginnings & Sisneri Relocation</h2>
+                <h2 class="text-[#234433] text-2xl tracking-tight">The Manikharka Beginnings & Sisneri Relocation</h2>
                 <span class="text-xs uppercase text-[#C5A880] mt-2 block font-semibold">2007 BS – 2041 BS</span>
                 <div class="w-full">
                     <div class="aspect-[4/3] w-full bg-gray-100 rounded-sm overflow-hidden shadow-sm">
@@ -128,7 +128,7 @@
                 <!-- Left: Institutional Pillars / Text Info -->
                 <div class="md:col-span-7 text-gray-600 space-y-6 text-sm md:text-base leading-relaxed">
                     <span class="text-[#C5A880] text-xs uppercase tracking-widest font-bold block">Community Guardians & Teachers</span>
-                    <h2 class="text-[#234433] text-2xl md:text-3xl emphasis">Pillars of the Institution</h2>
+                    <h2 class="text-[#234433] text-2xl md:text-3xl">Pillars of the Institution</h2>
                     <p>
                         The lifeblood of the institution has always been its dedicated educators drawn directly from the local soil. Respected community figures like <strong class="text-gray-900 font-medium">Deo Bahadur Gurung</strong> and <strong class="text-gray-900 font-medium">Tek Bahadur Gurung</strong> devoted years of service to shaping young minds within these walls. Notably, <strong class="text-gray-900 font-medium">Jagat Bahadur Pahari</strong>—the former Ward Chairperson of Lakeside (Ward-6)—also served as the school's distinguished Headmaster, guiding its academic foundation.
                     </p>
