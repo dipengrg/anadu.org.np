@@ -19,7 +19,6 @@ body {
     font-family: var(--font-body);
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
-    @apply text-center;
 }
 
 h1, h2 {
@@ -40,8 +39,7 @@ p {
     @apply text-sm leading-relaxed my-2;
 }
 
-/* Custom Heritage Components & Backgrounds */
-.footer-heritage-bg {
+.footer {
     /* Fixed public directory asset mapping for Vite production compilation */
     background-image: url('/public/images/old-ladies-rowing-boat.png');
     background-position: top center;

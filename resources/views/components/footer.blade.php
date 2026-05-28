@@ -1,14 +1,14 @@
-<footer class="relative bg-primary text-light py-16 mt-20 overflow-hidden footer-heritage-bg">
+<footer class="relative bg-primary text-light py-16 mt-20 overflow-hidden footer">
     
     <div class="absolute inset-0 z-10 bg-gradient-to-b from-primary via-transparent to-primary"></div>
 
     <div class="container mx-auto px-6 text-center relative z-20">
         <div class="mb-8">
-            <span class="text-3xl md:text-4xl text-secondary mb-2 uppercase">
+            <span class="font-heading text-3xl md:text-4xl text-secondary mb-2 uppercase">
                 तालपारी अनदुँ
             </span>
             
-            <p class="opacity-90 text-sm md:text-base max-w-2xl mx-auto leading-relaxed">
+            <p class="font-heading text-sm md:text-base max-w-2xl mx-auto leading-relaxed">
                 "Cultivating a stronger community to honor our history, protect our identity, and preserve the vibrant culture, traditions, and nature of Anadu."
             </p>
         </div>
