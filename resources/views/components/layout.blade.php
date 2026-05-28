@@ -14,7 +14,7 @@
 
 </head>
 
-<body class="bg-anadu-base font-body text-anadu-dark antialiased selection:bg-anadu-gold selection:text-white flex flex-col min-h-full">
+<body class="bg-light font-body text-dark antialiased selection:bg-secondary selection:text-white flex flex-col min-h-full">
     
     <x-header />
 

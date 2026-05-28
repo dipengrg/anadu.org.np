@@ -13,7 +13,7 @@
     <section id="about" class="max-w-6xl mx-auto px-6 py-20 md:py-32">
         <div class="grid grid-cols-1 lg:grid-cols-12 gap-12 items-center">
             <div class="lg:col-span-6">
-                <h2 class="text-[#234433] text-3xl md:text-4xl  leading-tight mb-6">Surrounded by Nature, Preserved by People</h2>
+                <h2 class="text-[#234433] text-3xl md:text-4xl emphasis leading-tight mb-6">Surrounded by Nature, Preserved by People</h2>
                 
                 <div class="text-gray-600 space-y-6 leading-relaxed text-sm md:text-base">
                     <p>
@@ -39,7 +39,7 @@
 
     <section id="highlight" class="max-w-4xl mx-auto px-6 py-12 text-center border-t border-gray-200/30">
         <div class="inline-block mb-4 text-[#C5A880] text-lg">✦</div>
-        <h3 class="text-[#234433] text-xl md:text-2xl  max-w-2xl mx-auto leading-relaxed">
+        <h3 class="text-[#234433] text-xl md:text-2xl emphasis max-w-2xl mx-auto leading-relaxed">
             "Preserving the Wisdom of the Khegi"
         </h3>
 
@@ -62,23 +62,23 @@
         <div class="max-w-5xl mx-auto px-6">
             <div class="grid grid-cols-1 lg:grid-cols-12 gap-12 items-start">
                 <div class="lg:col-span-4 sticky top-6">
-                    <h3 class="text-[#234433] text-2xl md:text-3xl ">Keeping Anadu Pure & Green</h3>
+                    <h3 class="text-[#234433] text-2xl md:text-3xl emphasis">Keeping Anadu Pure & Green</h3>
                     <p class="text-gray-600 text-sm mt-4 leading-relaxed">
                         We take collective action to protect the natural ecosystem handed down by our ancestors.
                     </p>
                 </div>
                 <div class="lg:col-span-8 space-y-4">
                     <div class="bg-white p-6 rounded-sm border border-gray-100 flex items-start gap-4">
-                        <div class="text-[#C5A880] text-xl font-bold ">01</div>
+                        <div class="text-[#C5A880] text-xl font-bold emphasis">01</div>
                         <div>
-                            <h4 class="text-gray-900 font-semibold  mb-1">Fewa Lake Clean-up</h4>
+                            <h4 class="text-gray-900 font-semibold emphasis mb-1">Fewa Lake Clean-up</h4>
                             <p class="text-gray-600 text-sm leading-relaxed">Protecting the shoreline, controlling pollution, and safeguarding aquatic life along our village borders.</p>
                         </div>
                     </div>
                     <div class="bg-white p-6 rounded-sm border border-gray-100 flex items-start gap-4">
-                        <div class="text-[#C5A880] text-xl font-bold ">02</div>
+                        <div class="text-[#C5A880] text-xl font-bold emphasis">02</div>
                         <div>
-                            <h4 class="text-gray-900 font-semibold  mb-1">Baato Sarsafai</h4>
+                            <h4 class="text-gray-900 font-semibold emphasis mb-1">Baato Sarsafai</h4>
                             <p class="text-gray-600 text-sm leading-relaxed">Community-led trail cleaning and structural path restorations to maintain historical walking trails.</p>
                         </div>
                     </div>

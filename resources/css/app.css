@@ -2,11 +2,10 @@
 
 @theme {
     /* Heritage Color Palette */
-    --color-anadu-gold: #C5A059;
-    --color-anadu-forest: #2D4636;
-    --color-anadu-base: #F2EFE9;
-    --color-anadu-dark: #3E424B;
-    --color-anadu-lake: #4A6D7C;
+    --color-primary: #2D4636;
+    --color-secondary: #C5A059;
+    --color-light: #F2EFE9;
+    --color-dark: #3E424B;
 
     /* Typography System (Pairing Set 1 & Set 2) */
     --font-heading: "Cinzel", "Arya", serif;
@@ -15,8 +14,8 @@
 
 /* Global HTML Base Rules */
 body {
-    background-color: var(--color-anadu-base);
-    color: var(--color-anadu-dark);
+    background-color: var(--color-light);
+    color: var(--color-dark);
     font-family: var(--font-body);
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
