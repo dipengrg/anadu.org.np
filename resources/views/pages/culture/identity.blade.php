@@ -52,7 +52,7 @@
                 <!-- Left Column: Women's Attire -->
                 <div class="md:col-span-6 space-y-4 bg-[#F7F5F0] p-8 border border-gray-200/60 rounded-sm shadow-sm">
                     <span class="text-[10px] uppercase font-sans tracking-widest font-bold text-[#C5A880] block">Athentic Women's Garments</span>
-                    <h3 class="text-[#234433] text-xl font-serif">The Female Silhouette</h3>
+                    <span class="text-[#234433] text-xl font-serif">The Female Silhouette</span>
                     <p class="text-gray-600 text-xs md:text-sm leading-relaxed">
                         The traditional clothing of Gurung women is layered with deep textile artistry. The ensemble prominently features the <span class="font-medium text-gray-900">Cholo</span> or <span class="font-medium text-gray-900">Chaubandi Cholo</span> (a double-breasted blouse), paired elegantly with a wrap-around skirt known as the <span class="">Phariya</span> or <span class="">Lungi</span>. 
                     </p>
@@ -68,7 +68,7 @@
                 <!-- Right Column: Men's Attire -->
                 <div class="md:col-span-6 space-y-4 bg-[#F7F5F0] p-8 border border-gray-200/60 rounded-sm shadow-sm">
                     <span class="text-[10px] uppercase font-sans tracking-widest font-bold text-[#C5A880] block">Authentic Men's Garments</span>
-                    <h3 class="text-[#234433] text-xl font-serif">The Male Silhouette</h3>
+                    <span class="text-[#234433] text-xl font-serif">The Male Silhouette</span>
                     <p class="text-gray-600 text-xs md:text-sm leading-relaxed">
                         Engineered for practical durability, the traditional attire for men includes the <strong class="text-[#234433] font-medium">Kachhad (or Kaas)</strong>—a functional, white wrap-around lower garment. This is worn alongside the <span class="font-medium text-gray-900">Bhoto</span>, a light, short-sleeved shirt fastened securely at the front with cloth ties. 
                     </p>

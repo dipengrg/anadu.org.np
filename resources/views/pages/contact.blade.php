@@ -26,7 +26,7 @@
                 
                 <!-- Institutional Contacts -->
                 <div>
-                    <h3 class="text-xs font-mono text-gray-400 uppercase tracking-wider mb-3">Institutional Liaisons</h3>
+                    <span class="text-xs font-mono text-gray-400 uppercase tracking-wider mb-3">Institutional Liaisons</span>
                     <ul class="space-y-6 text-sm">
                         <li>
                             <strong class="font-serif text-base text-gray-900 block">Anadu Tol Bikas Sanstha</strong>

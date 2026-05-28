@@ -45,7 +45,7 @@
                 <div class="md:col-span-5">
                     <div class="w-full bg-[#F7F5F0] border border-gray-200/60 rounded-sm p-6 space-y-4 shadow-sm font-sans">
                         <span class="text-xs uppercase tracking-widest font-bold text-[#C5A880] block">Festival Schedule</span>
-                        <h4 class="text-[#234433] text-xl font-serif">Annual Custom (प्रत्येक वर्ष)</h4>
+                        <span class="text-[#234433] text-xl font-serif">Annual Custom (प्रत्येक वर्ष)</span>
                         
                         <div class="space-y-3 pt-2">
                             <div class="flex items-start gap-3">
@@ -66,7 +66,7 @@
                 <!-- Right Column: Leadership of Women -->
                 <div class="md:col-span-7 text-gray-600 space-y-6 text-sm md:text-base leading-relaxed">
                     <span class="text-[#C5A880] text-xs uppercase tracking-widest font-bold block">Matriarchal Leadership</span>
-                    <h3 class="text-[#234433] text-2xl mb-4">The Active Participation of Women</h3>
+                    <span class="text-[#234433] text-2xl mb-4">The Active Participation of Women</span>
                     
                     <p>
                         <strong class="text-gray-900 font-medium">Maai Puja</strong> is celebrated on a grand, magnificent scale (<span class=" font-medium">भव्य रूपमा सम्पन्न हुन्छ</span>) precisely <strong class="text-gray-900 font-medium">once every year</strong> in the spring, marking a vital period of growth and renewal.

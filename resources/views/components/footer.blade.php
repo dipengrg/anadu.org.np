@@ -4,9 +4,9 @@
 
     <div class="container mx-auto px-6 text-center relative z-20">
         <div class="mb-8">
-            <h3 class="text-3xl md:text-4xl text-secondary mb-2 uppercase">
+            <span class="text-3xl md:text-4xl text-secondary mb-2 uppercase">
                 तालपारी अनदुँ
-            </h3>
+            </span>
             
             <p class="opacity-90 text-sm md:text-base max-w-2xl mx-auto leading-relaxed">
                 "Cultivating a stronger community to honor our history, protect our identity, and preserve the vibrant culture, traditions, and nature of Anadu."

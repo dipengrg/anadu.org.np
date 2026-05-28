@@ -49,7 +49,7 @@
                 <div class="md:col-span-5 order-last md:order-first">
                     <div class="w-full bg-[#F7F5F0] border border-gray-200/60 rounded-sm p-6 space-y-4 shadow-sm font-sans">
                         <span class="text-xs uppercase tracking-widest font-bold text-[#C5A880] block">Our Shared Identity</span>
-                        <h4 class="text-[#234433] text-xl font-serif">साझा पहिचान</h4>
+                        <span class="text-[#234433] text-xl font-serif">साझा पहिचान</span>
                         <p class="text-gray-600 text-xs leading-relaxed">
                             This ritual, closely guarded and kept alive by the Anadu community, stands as a cornerstone of our distinct cultural identity.
                         </p>
@@ -62,7 +62,7 @@
                 <!-- Right Column: The Threat of Modernity -->
                 <div class="md:col-span-7 text-gray-600 space-y-6 text-sm md:text-base leading-relaxed">
                     <span class="text-[#C5A880] text-xs uppercase tracking-widest font-bold block">The Threat of Disappearance</span>
-                    <h3 class="text-[#234433] text-2xl  mb-4">Preserving the Legacy Against the Wave of Modernity</h3>
+                    <span class="text-[#234433] text-2xl  mb-4">Preserving the Legacy Against the Wave of Modernity</span>
                     
                     <p>
                         Despite its immense spiritual and historical value, this invaluable tradition currently stands on the very brink of disappearance (<span class=" font-medium">तर आज, यो अमूल्य परम्परा लोप हुने संघारमा छ</span>). 

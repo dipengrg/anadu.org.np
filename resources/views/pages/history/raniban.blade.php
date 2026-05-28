@@ -80,7 +80,7 @@
         <div class="grid grid-cols-1 md:grid-cols-12 gap-12 items-start">
             
             <div class="md:col-span-4">
-                <h3 class="text-[#234433] text-xl font-serif font-bold leading-tight">An Unbroken Responsibility</h3>
+                <span class="text-[#234433] text-xl font-serif font-bold leading-tight">An Unbroken Responsibility</span>
             </div>
 
             <div class="md:col-span-8 space-y-8">
@@ -91,14 +91,14 @@
                 <!-- Dual Navigation Bridges to initiatives and tourism -->
                 <div class="grid grid-cols-1 sm:grid-cols-2 gap-6 pt-6 border-t border-gray-100 font-sans">
                     <div>
-                        <h4 class="text-xs uppercase font-mono tracking-wider text-gray-400 mb-2">Our Modern Action:</h4>
+                        <span class="text-xs uppercase font-mono tracking-wider text-gray-400 mb-2">Our Modern Action:</span>
                         <a href="/community/initiatives" class="group block">
                             <span class="text-sm font-serif font-bold text-gray-950 group-hover:text-[#234433] block">Baato Sarsafai Abhiyaan</span>
                             <span class="text-xs text-gray-500 underline hover:text-gray-900 block mt-0.5">See how our families physically clear and clean this forest infrastructure today →</span>
                         </a>
                     </div>
                     <div>
-                        <h4 class="text-xs uppercase font-mono tracking-wider text-gray-400 mb-2">Responsible Exploration:</h4>
+                        <span class="text-xs uppercase font-mono tracking-wider text-gray-400 mb-2">Responsible Exploration:</span>
                         <a href="/eco-tourism/raniban-eco-trail" class="group block">
                             <span class="text-sm font-serif font-bold text-gray-950 group-hover:text-[#234433] block">Raniban Anadu Eco-Trail</span>
                             <span class="text-xs text-gray-500 underline hover:text-gray-900 block mt-0.5">Access hiking routes, safety profiles, and our strict environmental Hiker Code →</span>

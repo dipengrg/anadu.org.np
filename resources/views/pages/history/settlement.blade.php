@@ -16,12 +16,20 @@
 @section('content')
 <main class="w-full">
 
+    <h1>
+        @if($language == 'en')
+            History of Settlement
+        @elseif($language == 'ne')
+            बस्तीको इतिहास
+        @endif
+    </h1>
+
     <!-- Section 1: Deep Origins -->
     <section class="max-w-5xl mx-auto px-10 py-16">
         <div class="grid grid-cols-1 md:grid-cols-12 gap-12 items-start">
             <div class="md:col-span-4 sticky top-6">
-                <h2 class="text-2xl">From Kohlasothar to the Western Hills</h2>
-                <span class="text-xs uppercase text-secondary mt-2 block">~500 CE - 14th Century</span>
+                <h2 class="text-lg">From Kohlasothar to the Western Hills</h2>
+                <span class="text-xs uppercase text-secondary mt-2">~500 CE - 14th Century</span>
             </div>
             <div class="md:col-span-8 text-gray-600 space-y-6 text-sm md:text-base leading-relaxed">
                 <p>

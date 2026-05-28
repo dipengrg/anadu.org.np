@@ -46,7 +46,7 @@
                 <p>
                     The Raniban Eco-Trail is much more than a recreational hiking path—it is an intrinsic asset to our community infrastructure. When heavy winds or seasonal monsoon waves disrupt boat transport across Fewa Lake, this pathway stands as our primary overland alternative to access urban Pokhara.
                 </p>
-                <h3 class="font-serif font-bold text-lg text-gray-900 pt-2">Community Stewardship</h3>
+                <span class="font-serif font-bold text-lg text-gray-900 pt-2">Community Stewardship</span>
                 <p>
                     Every year during our post-monsoon <span class=" font-medium">Baato Sarsafai Abhiyaan</span>, our families unite to clear the rapid weed overgrowth and seasonal brush that naturally interrupts the path. This ensuring clear visibility and safe passage for both local commuters and visiting nature travelers.
                 </p>
@@ -54,7 +54,7 @@
 
             <!-- Right Sidebar: Eco Guidelines (Takes up 1/3 Space) -->
             <div class="border border-gray-200 p-6 rounded-sm space-y-4">
-                <h4 class="font-serif font-bold text-sm text-gray-900 uppercase tracking-wide">The Hiker's Code</h4>
+                <span class="font-serif font-bold text-sm text-gray-900 uppercase tracking-wide">The Hiker's Code</span>
                 <p class="text-gray-600 text-xs leading-relaxed">
                     As indigenous guardians of this forest terrain, we ask all travelers to traverse our trails with deep environmental respect.
                 </p>

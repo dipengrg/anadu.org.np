@@ -47,7 +47,7 @@
                 <div class="md:col-span-5 order-last md:order-first">
                     <div class="w-full bg-[#F7F5F0] border border-gray-200/60 rounded-sm p-6 space-y-4 shadow-sm">
                         <span class="text-xs uppercase tracking-widest font-bold text-[#C5A880] block">Kinship Responsibilities</span>
-                        <h4 class="text-[#234433] text-xl font-serif">The Duty of the Jwais</h4>
+                        <span class="text-[#234433] text-xl font-serif">The Duty of the Jwais</span>
                         <p class="text-gray-600 text-xs leading-relaxed">
                             In Gurung eschatology, the sons-in-law bear the profound logistical and physical responsibility of maintaining the purity of the burial grounds.
                         </p>
@@ -65,7 +65,7 @@
                 <!-- Right Column: Simi Kai Details -->
                 <div class="md:col-span-7 text-gray-600 space-y-6 text-sm md:text-base leading-relaxed">
                     <span class="text-[#C5A880] text-xs uppercase tracking-widest font-bold block">Post-Cremation Customs</span>
-                    <h3 class="text-[#234433] text-2xl mb-4">The Ritual of Simi Kai</h3>
+                    <span class="text-[#234433] text-2xl mb-4">The Ritual of Simi Kai</span>
                     
                     <p>
                         The journey of the departed soul does not conclude at the cremation pyre. On the <strong class="text-gray-900 font-medium">third day following the cremation</strong>, a sacred secondary rite known as <strong class="text-[#234433] font-semibold">Simi Kai</strong> is performed. 

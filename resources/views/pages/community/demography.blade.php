@@ -39,7 +39,7 @@
 
         <!-- The Lineage Matrix Placeholder -->
         <div class="mb-16">
-            <h3 class="font-serif font-bold text-lg text-gray-900 mb-3">Patrilineal Ancestry Maps</h3>
+            <span class="font-serif font-bold text-lg text-gray-900 mb-3">Patrilineal Ancestry Maps</span>
             <p class="text-gray-600 text-sm leading-relaxed max-w-3xl">
                 Our ancestral trees chart the historical lineage transitions across known generations as preserved by our clan leaders. These structural maps help our modern generation trace their specific branches directly back to the founding stewardship of this land.
             </p>

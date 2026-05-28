@@ -45,7 +45,7 @@
                 <div class="md:col-span-5">
                     <div class="w-full bg-[#F7F5F0] border border-gray-200/60 rounded-sm p-6 space-y-4 shadow-sm font-sans">
                         <span class="text-xs uppercase tracking-widest font-bold text-[#C5A880] block">Ritual Schedule</span>
-                        <h4 class="text-[#234433] text-xl font-serif">The Purnima Cycle (पूर्णेको दिन)</h4>
+                        <span class="text-[#234433] text-xl font-serif">The Purnima Cycle (पूर्णेको दिन)</span>
                         
                         <div class="space-y-3 pt-2">
                             <div class="flex items-start gap-3">
@@ -73,7 +73,7 @@
                 <!-- Right Column: Seasonal Transitions -->
                 <div class="md:col-span-7 text-gray-600 space-y-6 text-sm md:text-base leading-relaxed">
                     <span class="text-[#C5A880] text-xs uppercase tracking-widest font-bold block">Astrological &amp; Cultural Alignment</span>
-                    <h3 class="text-[#234433] text-2xl  mb-4">The Udhauli Convergence</h3>
+                    <span class="text-[#234433] text-2xl  mb-4">The Udhauli Convergence</span>
                     
                     <p>
                         The <strong class="text-gray-900 font-medium">Bhayar Jhaakri Puja</strong> is meticulously organized exactly <strong class="text-gray-900 font-medium">twice every single year</strong>, strictly aligning with the powerful energy of the full moon (<span class=" font-medium">प्रत्येक वर्ष जेठ र मंसिरको पूर्णिमा</span>). 

@@ -44,7 +44,7 @@
         <div class="max-w-5xl mx-auto px-6">
             <div class="text-center max-w-2xl mx-auto mb-12">
                 <span class="text-xs uppercase text-[#C5A880] tracking-widest font-bold block mb-2">The Authentic Zodiac Guide</span>
-                <h3 class="text-[#234433] text-2xl md:text-3xl ">The Twelve Signs of the Tamu Barga</h3>
+                <span class="text-[#234433] text-2xl md:text-3xl ">The Twelve Signs of the Tamu Barga</span>
                 <p class="text-gray-500 text-xs mt-2">The traditional, indigenous chronological sequence of animal signs that govern the Gurung wheel of time.</p>
             </div>
 

@@ -25,7 +25,7 @@
             <div class="border-t border-gray-200 pt-6 grid grid-cols-1 md:grid-cols-3 gap-4 md:gap-8">
                 <div>
                     <span class="text-xs text-gray-400 block mb-1">01 / CIVIC &amp; DEVELOPMENT</span>
-                    <h3 class=" text-lg text-gray-900">Anadu Tol Bikash Sanstha</h3>
+                    <span class=" text-lg text-gray-900">Anadu Tol Bikash Sanstha</span>
                 </div>
                 <div class="md:col-span-2">
                     <p class="text-gray-600 text-sm md:text-base leading-relaxed">
@@ -38,7 +38,7 @@
             <div class="border-t border-gray-200 pt-6 grid grid-cols-1 md:grid-cols-3 gap-4 md:gap-8">
                 <div>
                     <span class="text-xs text-gray-400 block mb-1">02 / HERITAGE &amp; LINEAGE</span>
-                    <h3 class=" text-lg text-gray-900">Taalpaari Anadu Gurung Samaaj</h3>
+                    <span class=" text-lg text-gray-900">Taalpaari Anadu Gurung Samaaj</span>
                 </div>
                 <div class="md:col-span-2">
                     <p class="text-gray-600 text-sm md:text-base leading-relaxed">
@@ -51,7 +51,7 @@
             <div class="border-t border-gray-200 pt-6 grid grid-cols-1 md:grid-cols-3 gap-4 md:gap-8">
                 <div>
                     <span class="text-xs text-gray-400 block mb-1">03 / SOCIAL WELFARE</span>
-                    <h3 class=" text-lg text-gray-900">Anadu Aama Samuha</h3>
+                    <span class=" text-lg text-gray-900">Anadu Aama Samuha</span>
                 </div>
                 <div class="md:col-span-2">
                     <p class="text-gray-600 text-sm md:text-base leading-relaxed">

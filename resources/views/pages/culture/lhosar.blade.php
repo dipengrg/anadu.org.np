@@ -68,7 +68,7 @@
                 <!-- Left Side: Local Timeline & Organization -->
                 <div class="md:col-span-5 space-y-4 bg-[#F7F5F0] p-8 border border-gray-200/60 rounded-sm shadow-sm font-sans">
                     <span class="text-[10px] uppercase tracking-widest font-bold text-[#C5A880] block">Institutional History</span>
-                    <h3 class="text-[#234433] text-xl font-serif">Origins of the Local Gathering</h3>
+                    <span class="text-[#234433] text-xl font-serif">Origins of the Local Gathering</span>
                     <p class="text-gray-600 text-xs md:text-sm leading-relaxed">
                         In our village of <strong class="text-gray-900 font-semibold">Taalpaari Anadu</strong>, the organized celebration of this grand festival first began in the year <strong class="text-gray-900">2074 BS</strong>, driven by the active initiative of the <span class="font-medium text-gray-900">Anadu Shanti Stupa Youth Club</span> and the <span class="font-medium text-gray-900">Anadu Aama Samuha (Mothers' Group)</span>. 
                     </p>
@@ -79,7 +79,7 @@
 
                 <!-- Right Side: Chronology of Ritual Practices -->
                 <div class="md:col-span-7 space-y-6 text-gray-600 text-sm md:text-base leading-relaxed">
-                    <h3 class="text-[#234433] text-xl font-serif">The Rites of Transition &amp; Blessings</h3>
+                    <span class="text-[#234433] text-xl font-serif">The Rites of Transition &amp; Blessings</span>
                     <p>
                         The local program unfolds sequentially through highly calculated sacred ancestral milestones:
                     </p>

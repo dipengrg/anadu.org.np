@@ -49,7 +49,7 @@
                 <div class="md:col-span-5">
                     <div class="w-full bg-[#F7F5F0] border border-gray-200/60 rounded-sm p-6 space-y-4 shadow-sm">
                         <span class="text-xs uppercase tracking-widest font-bold text-[#C5A880] block">The Target of Suppression</span>
-                        <h4 class="text-[#234433] text-xl font-serif">Panchayat Era Backlash</h4>
+                        <span class="text-[#234433] text-xl font-serif">Panchayat Era Backlash</span>
                         <p class="text-gray-600 text-xs leading-relaxed">
                             The rapid mobilization of villagers, tourists, and academics carrying materials up the steep terrain was perceived as an unsanctioned public movement by the royal administration.
                         </p>
@@ -62,7 +62,7 @@
                 <!-- Right Column: The Crackdown -->
                 <div class="md:col-span-7 text-gray-600 space-y-6 text-sm md:text-base leading-relaxed">
                     <span class="text-[#C5A880] text-xs uppercase tracking-widest font-bold block">State Intervention</span>
-                    <h3 class="text-[#234433] text-2xl mb-4">The Demolition of 2031 B.S.</h3>
+                    <span class="text-[#234433] text-2xl mb-4">The Demolition of 2031 B.S.</span>
                     <p>
                         The construction quickly scaled into a massive local public movement, drawing hundreds of daily volunteers up the ridges of Minthumki. However, when the main pagoda structure reached a height of roughly 35 to 45 feet, it triggered hostile political intervention from the local administration acting under the Pokhara Town Planning Committee (<span class="">Nagar Yojana</span>). 
                     </p>

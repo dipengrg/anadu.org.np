@@ -25,7 +25,7 @@
             <div class="border-t border-gray-200 pt-8 grid grid-cols-1 md:grid-cols-3 gap-6 md:gap-8">
                 <div>
                     <span class="text-xs font-mono text-gray-400 block mb-1">PROJECT 01 / ECO-PRESERVATION</span>
-                    <h3 class="font-serif font-bold text-xl text-gray-900">Fewa Lake Cleanup</h3>
+                    <span class="font-serif font-bold text-xl text-gray-900">Fewa Lake Cleanup</span>
                 </div>
                 <div class="md:col-span-2 space-y-4">
                     <p class="text-gray-600 text-sm md:text-base leading-relaxed">
@@ -41,7 +41,7 @@
             <div class="border-t border-gray-200 pt-8 grid grid-cols-1 md:grid-cols-3 gap-6 md:gap-8">
                 <div>
                     <span class="text-xs font-mono text-gray-400 block mb-1">PROJECT 02 / INFRASTRUCTURE</span>
-                    <h3 class="font-serif font-bold text-xl text-gray-900">Baato Sarsafai Abhiyaan</h3>
+                    <span class="font-serif font-bold text-xl text-gray-900">Baato Sarsafai Abhiyaan</span>
                 </div>
                 <div class="md:col-span-2 space-y-4">
                     <p class="text-gray-600 text-sm md:text-base leading-relaxed">
@@ -50,7 +50,7 @@
                     
                     <!-- Sub-trail list -->
                     <div class="pt-2">
-                        <h4 class="text-xs uppercase font-mono tracking-wider text-gray-400 mb-2">Core Networks Maintained:</h4>
+                        <span class="text-xs uppercase font-mono tracking-wider text-gray-400 mb-2">Core Networks Maintained:</span>
                         <ul class="space-y-2 text-sm text-gray-700">
                             <li class="flex items-start gap-2">
                                 <span class="text-gray-400 font-mono text-xs pt-0.5">A.</span>

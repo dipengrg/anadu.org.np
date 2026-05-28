@@ -60,7 +60,7 @@
                 <!-- Right Column: Current Description with Post-War Reconstruction Fund Details -->
                 <div class="md:col-span-7 text-gray-600 space-y-6 text-sm md:text-base leading-relaxed">
                     <span class="text-[#C5A880] text-xs uppercase tracking-widest font-bold block">Historical Records</span>
-                    <h3 class="text-[#234433] text-2xl mb-4">The Vision of Min Bahadur Gurung</h3>
+                    <span class="text-[#234433] text-2xl mb-4">The Vision of Min Bahadur Gurung</span>
                     
                     <p>
                         The introduction of institutional schooling to our village is heavily credited to the extensive social reforms spearheaded by Former Assistant Defense Minister Min Bahadur Gurung. In his published memoirs, he chronicles the exhausting journey to unlock literacy for the region. 

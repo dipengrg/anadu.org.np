@@ -39,7 +39,7 @@
         <div class="max-w-5xl mx-auto px-6">
             <div class="text-center max-w-2xl mx-auto mb-16">
                 <span class="text-xs uppercase text-[#C5A880] tracking-widest font-bold block mb-2">The Ritual Procession</span>
-                <h3 class="text-[#234433] text-2xl md:text-3xl">Day-by-Day Chronology</h3>
+                <span class="text-[#234433] text-2xl md:text-3xl">Day-by-Day Chronology</span>
                 <p class="text-gray-500 text-xs mt-2">A breakdown of the sacred milestones executed across the four days of Arghau.</p>
             </div>
 
@@ -50,7 +50,7 @@
                 <div class="grid grid-cols-1 md:grid-cols-12 gap-6 md:gap-12 items-start">
                     <div class="md:col-span-3">
                         <span class="text-[#C5A880] font-sans font-bold tracking-wider uppercase text-xs block">Day 01</span>
-                        <h4 class="text-[#234433] text-lg font-serif mt-1">Formal Invitation &amp; Departure Ritual</h4>
+                        <span class="text-[#234433] text-lg font-serif mt-1">Formal Invitation &amp; Departure Ritual</span>
                     </div>
                     <div class="md:col-span-9 text-gray-600 text-sm md:text-base leading-relaxed space-y-3">
                         <p>
@@ -68,7 +68,7 @@
                 <div class="grid grid-cols-1 md:grid-cols-12 gap-6 md:gap-12 items-start">
                     <div class="md:col-span-3">
                         <span class="text-[#C5A880] font-sans font-bold tracking-wider uppercase text-xs block">Day 02</span>
-                        <h4 class="text-[#234433] text-lg font-serif mt-1">Constructing the Plah &amp; Pathfinding</h4>
+                        <span class="text-[#234433] text-lg font-serif mt-1">Constructing the Plah &amp; Pathfinding</span>
                     </div>
                     <div class="md:col-span-9 text-gray-600 text-sm md:text-base leading-relaxed space-y-3">
                         <p>
@@ -86,7 +86,7 @@
                 <div class="grid grid-cols-1 md:grid-cols-12 gap-6 md:gap-12 items-start">
                     <div class="md:col-span-3">
                         <span class="text-[#C5A880] font-sans font-bold tracking-wider uppercase text-xs block">Day 03</span>
-                        <h4 class="text-[#234433] text-lg font-serif mt-1">The Ritual of Separation</h4>
+                        <span class="text-[#234433] text-lg font-serif mt-1">The Ritual of Separation</span>
                     </div>
                     <div class="md:col-span-9 text-gray-600 text-sm md:text-base leading-relaxed space-y-3">
                         <p>
@@ -104,7 +104,7 @@
                 <div class="grid grid-cols-1 md:grid-cols-12 gap-6 md:gap-12 items-start">
                     <div class="md:col-span-3">
                         <span class="text-[#C5A880] font-sans font-bold tracking-wider uppercase text-xs block">Day 04</span>
-                        <h4 class="text-[#234433] text-lg font-serif mt-1">Syai-Syai &amp; Communal Conclusion</h4>
+                        <span class="text-[#234433] text-lg font-serif mt-1">Syai-Syai &amp; Communal Conclusion</span>
                     </div>
                     <div class="md:col-span-9 text-gray-600 text-sm md:text-base leading-relaxed space-y-3">
                         <p>

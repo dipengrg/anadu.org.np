@@ -48,7 +48,7 @@
                 <div class="md:col-span-5 order-last md:order-first">
                     <div class="w-full bg-[#F7F5F0] border border-gray-200/60 rounded-sm p-6 space-y-4 shadow-sm">
                         <span class="text-xs uppercase tracking-widest font-bold text-[#C5A880] block">Facility Dimensions</span>
-                        <h4 class="text-[#234433] text-xl font-serif">The Main Assembly Hall</h4>
+                        <span class="text-[#234433] text-xl font-serif">The Main Assembly Hall</span>
                         <ul class="text-gray-600 text-xs space-y-2 list-none p-0">
                             <li class="flex items-center gap-2">
                                 <span class="text-[#C5A880]">✔</span> <strong>Capacity:</strong> Accommodates nearly 300 guests comfortably.
@@ -69,7 +69,7 @@
                 <!-- Right Column: Current Description with Construction Details -->
                 <div class="md:col-span-7 text-gray-600 space-y-6 text-sm md:text-base leading-relaxed">
                     <span class="text-[#C5A880] text-xs uppercase tracking-widest font-bold block">Evolution of the Space</span>
-                    <h3 class="text-[#234433] text-2xl mb-4">The Pye Karya Pavilion</h3>
+                    <span class="text-[#234433] text-2xl mb-4">The Pye Karya Pavilion</span>
                     
                     <p>
                         In <strong class="text-gray-900 font-medium">2075 BS</strong>, under the proactive initiation of the <strong class="text-gray-900 font-medium">Taalpaari Anadu Gurung Samaj</strong>, formal plans were drafted to build a comprehensive community center infrastructure. The primary catalyst for this massive structure was the collective need to gracefully host <span class=" font-medium">Pye Karya</span>, widely known as <strong class="text-gray-900 font-semibold">Arghau</strong>—the essential, sacred after-death ceremony of the deceased in Gurung culture.

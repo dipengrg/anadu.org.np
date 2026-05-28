@@ -45,7 +45,7 @@
                 <div class="md:col-span-5">
                     <div class="w-full bg-[#F7F5F0] border border-gray-200/60 rounded-sm p-6 space-y-4 shadow-sm font-sans">
                         <span class="text-xs uppercase tracking-widest font-bold text-[#C5A880] block">Occasions</span>
-                        <h4 class="text-[#234433] text-xl font-serif">Annual Cycle (वर्षको तीन पटक)</h4>
+                        <span class="text-[#234433] text-xl font-serif">Annual Cycle (वर्षको तीन पटक)</span>
                         
                         <div class="space-y-3 pt-2">
                             <div class="flex items-start gap-3">
@@ -80,7 +80,7 @@
                 <!-- Right Column: Ritual Execution -->
                 <div class="md:col-span-7 text-gray-600 space-y-6 text-sm md:text-base leading-relaxed">
                     <span class="text-[#C5A880] text-xs uppercase tracking-widest font-bold block">Ritual Practices</span>
-                    <h3 class="text-[#234433] text-2xl mb-4">The Communal Gathering</h3>
+                    <span class="text-[#234433] text-2xl mb-4">The Communal Gathering</span>
                     
                     <p>
                         <strong class="text-gray-900 font-medium">Thaaso Teh</strong> is traditionally observed exactly <strong class="text-gray-900 font-medium">three times a year</strong>. The choice of these specific days carries deep seasonal and astrological meaning, aligning perfectly with periods of transitions, new harvests, and cosmic shifts in the Tamu calendar.
